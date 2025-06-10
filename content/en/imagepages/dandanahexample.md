@@ -1,20 +1,16 @@
 ---
-title: "en DandanahExample"
+title: "Is it a Toy?"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/DandanahExample.jpg"
-category: "Gender"
-country_of_origin: "Soviet Union"
+category: "Utopia"
+country_of_origin: "Germany"
 draft: false
-description: This photo shows ...
+description: The Dandanah is a sui generis construction set ...
 ---
 
-{{< figure src="/img/DandanahExample.jpg" title="DandanahExample" >}}
+{{< figure src="/img/DandanahExample.jpg" >}}
 
-Text written in en
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The *Dandanah* is a *sui generis* construction set created in the early 1920s, following the carnage and devastation of the First World War. Although it was supposed to be a toy for children, it is in fact rather unsuitable for play, since it consists of little bricks made of colourful glass. The rationale behind its creation involved a mixture of beliefs related to light and colour, technology, and the materiality of glass, as well as unrealistic visions of an ideal world. Ultimately, the *Dandanah* was a miniature utopia, an idiosyncratic adult experiment driven by the anxieties and hopes of Modernity.
 
 
 {{< details "Origin" >}}

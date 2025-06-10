@@ -1,20 +1,30 @@
 ---
-title: "en PrincetonKasperle"
+title: "Spontaneous and Mischievous"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/PrincetonKasperle.jpg"
-category: "Domesticity"
-country_of_origin: "Soviet Union"
+category: "Free Play"
+country_of_origin: "Germany"
 draft: false
-description: This photo shows ...
+description: Spontaneous, ad hoc building play is...
 ---
 
-{{< figure src="/img/PrincetonKasperle.jpg" title="PrincetonKasperle" >}}
+{{< figure src="/img/PrincetonKasperle.jpg" >}}
 
-Text written in en
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Spontaneous, ad hoc building play is perhaps one of the oldest forms of play; it can be very exciting but often also inappropriate. The following poem from a 1909 collection written and illustrated by a doctor for his own children demonstrates exactly this casual and unruly play:
+'In winter, when it snows and freezes,
+Everyone fires up the stove,
+And people compete to stuff
+The briquettes into the stove.
+[…]
+I play with them in the meantime.
+Let everyone look now,
+Oh, the bucket is already empty,
+And the tower is no longer growing!
+The briquettes are sooty, 
+Otherwise, it would be much nicer to play...
+When dad comes home,
+He will beat me and brush me!'
+The incident immortalised in this poem appears to be a realistic representation of informal and creative building play by infants.
 
 
 {{< details "Origin" >}}

@@ -1,20 +1,16 @@
 ---
-title: "en ChristmasAnker"
+title: "Christmas Toys"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/ChristmasAnker.jpg"
-category: "Fear"
-country_of_origin: "Spain"
+category: "Consumption"
+country_of_origin: "Germany"
 draft: false
-description: This photo shows ...
+description: The consumption of toys was...
 ---
 
-{{< figure src="/img/ChristmasAnker.jpg" title="ChristmasAnker" >}}
+{{< figure src="/img/ChristmasAnker.jpg" >}}
 
-Text written in en
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The consumption of toys was a tool for constructing and maintaining the domestic ideal; this process was exemplified by the Christmas market, which held a central role in the social production and reproduction of middle-class ideology. In its modern version, Christmas had not only been transformed from a much more communal festival into a family affair emphasising children and an idealised vision of intimate domesticity, but also a much more commercialised affair. As the institution of the family was forced in retreat from the impersonal technocratic modern society, it desperately engaged in gift-giving behaviour as a bonding mechanism. Through decorating the home, family celebrations, and gift-giving, a heavy burden was placed on Christmas, which emphasised the growing significance of the child. Toys became central to these family rituals.
 
 
 {{< details "Origin" >}}

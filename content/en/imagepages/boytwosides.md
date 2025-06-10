@@ -1,20 +1,19 @@
 ---
-title: "en BoyTwoSides"
+title: "A Boy's Two Sides"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/BoyTwoSides.jpg"
-category: "Fear"
-country_of_origin: "Britain"
+category: "Emotions"
+country_of_origin: "United States"
 draft: false
-description: This photo shows ...
+description: "Gilbert’s Erector set was one of the most famous and successful..."
 ---
 
-{{< figure src="/img/BoyTwoSides.jpg" title="BoyTwoSides" >}}
+{{< figure src="/img/BoyTwoSides.jpg" >}}
 
-Text written in en
+Gilbert’s *Erector* set was one of the most famous and successful among the technical kits of the early twentieth century. *Erector*, like *Meccano*, was based on metal strips held together with bolts and nuts; its creator Alfred Carlton Gilbert (1884–1961) promoted it as a symbol of future success and thus excited the imagination of young boys. Additionally, similar to allusions to mothers’ fear about their boys in *Anker-Richter* leaflets of the late nineteenth century, *Erector* promotional material directly addressed the concerns of mothers. The inventor of the toy claimed that his main aim in creating this toy was to solve ‘the boy problem’. According to an Erector advertisement published in a New York newspaper in 1915:
+'Every mother knows that a boy overflows with vigor and vim. His untiring energy must have an outlet of some kind. Now this energy can take two directions – the one destructive, the other constructive. Which one it will be depends largely upon circumstances. […] A boy is likely to be destructive and engage in mischievous pranks simply because he hasn’t anything else to do. Give him something to do which is not only constructive and useful but also has the essential element of fun – then you will see how easy it is to suppress his destructive side and develop his constructive side.'
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 
 {{< details "Origin" >}}

@@ -1,20 +1,16 @@
 ---
-title: "en AnkerRacism"
+title: "Casual Racism"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/AnkerRacism.jpg"
-category: "Utopia"
-country_of_origin: "Britain"
+category: "Politics"
+country_of_origin: "Germany"
 draft: false
-description: This photo shows ...
+description: Visual representations in toy catalogues...
 ---
 
-{{< figure src="/img/AnkerRacism.jpg" title="AnkerRacism" >}}
+{{< figure src="/img/AnkerRacism.jpg" >}}
 
-Text written in en
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Visual representations in toy catalogues and manuals underpinned a certain familiarisation with foreign cultures, but also perpetuated stereotypes. Occasionally, foreign features were incorporated in an insensitive or outright racist manner, as evident for example in an advertisement of the Anker-Richter firm. The text of the advertisement is shown as a poster next to which an African boy is standing. The boy is dressed in rags and looks at the poster with an expression of puzzlement and incomprehension. The image implicitly suggests Western intellectual superiority.
 
 
 {{< details "Origin" >}}

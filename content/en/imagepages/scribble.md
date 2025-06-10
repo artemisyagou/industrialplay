@@ -1,20 +1,16 @@
 ---
-title: "en Scribble"
+title: "Leaving Traces"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Scribble.jpg"
-category: "Fear"
+category: "Emotions"
 country_of_origin: "Germany"
 draft: false
-description: This photo shows ...
+description: When examining old construction toys...
 ---
 
-{{< figure src="/img/Scribble.jpg" title="Scribble" >}}
+{{< figure src="/img/Scribble.jpg"  >}}
 
-Text written in en
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When examining old construction toys in museum and private collections, one also discovers numerous graphical signs of use. Small drawings and scribbles on toy packaging and pattern sheets suggest a systematic, perhaps collaborative, and possibly challenging play process. Did children make these sketches to facilitate themselves? Did adults produce the sketches for their own understanding – in order to better guide the children – or as an explanatory device for the children? Finally yet importantly, names of children handwritten on the toys they owned and used reveal a desire for personalisation and a strong emotional connection to their toys. Little Philip Helm wrote his name in beautiful calligraphic letters on the back of his toy box. His careful writing implies this was a cherished object. I wonder, what was he thinking while playing? Did he enjoy building? Did he eventually become an engineer? Does the true essence of children’s emotions towards play reside in these minimal, obscure, and highly personal traces?
 
 
 {{< details "Origin" >}}

@@ -1,20 +1,17 @@
 ---
-title: "en KonradZuse"
+title: "Konrad Zuse playing"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/KonradZuse.jpg"
-category: "Gender"
+category: "How they Played"
 country_of_origin: "Germany"
 draft: false
-description: This photo shows ...
+description: The computer pioneer Konrad Zuse (1910–1995), wrote...
 ---
 
-{{< figure src="/img/KonradZuse.jpg" title="KonradZuse" >}}
+{{< figure src="/img/KonradZuse.jpg" >}}
 
-Text written in en
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The computer pioneer Konrad Zuse (1910–1995), wrote in his autobiography of his experience with *Stabil* kits at Hoyerswerda, Saxony, during his teenage years in the 1920s. For Zuse, the joy of playing with construction kits was undeniable:
+'The erector (*Stabil*)set was my ‘one and only’ then. Radio construction, then quite modern, didn’t really appeal to me. I have always had a predominantly visual approach to my environment. This is also probably why I never pursued music. This perhaps one-sided talent was also evident in the construction of my computer models, Here, too, I preferred mechanical and electromechanical constructions and left the electronics to others who were better qualified. For a short time, however, my preference lay with cranes and grabs. I built a large grab crane on the closet in my room, and all of its movements could be operated from my desk using strings. The closing action of the grab, whose control had to be led through the crane trolley and its swiveling movement, proved particularly problematic. My Erector set also enabled me to enter contests sponsored by the suppliers. With the prizes I won, I added to the set. […] I was sixteen years old now, and up till this point my only dream was of becoming an engineer.'
 
 
 {{< details "Origin" >}}
