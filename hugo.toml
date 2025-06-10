@@ -1,4 +1,135 @@
 baseURL = 'https://example.org/'
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+#disqusShortname = "XXX"
+enableGitInfo = false
+enableRobotsTXT = true
+#googleAnalytics = "XXX"
+ignoreLogs = ['warning-goldmark-raw-html']
 languageCode = 'en-us'
-title = 'Industrial Play'
+metaDataFormat = "yaml"
+#pygmentOptions = "linenos=inline"
+pygmentsCodefencesGuessSyntax = true
+#pygmentsCodeFences = true
+pygmentsStyle = "trac"
+#pygmentsUseClasses = true
+#pygmentsUseClassic = true
+summaryLength  = "30"
 theme = 'lightbi-hugo'
+title = 'Industrial Play'
+
+[languages]
+  [languages.en]
+    LanguageCode  = "en"
+    LanguageName = "English"
+    weight = 1
+    title = "English version"
+    contentDir = "content/en"
+  [languages.de]
+    LanguageCode  = "de"
+    LanguageName = "Deutsch"
+    weight = 2
+    title = "Deutsch Verlag"
+    contentDir = "content/de"
+  [languages.fr]
+    LanguageCode  = "fr"
+    LanguageName = "Français"
+    weight = 3
+    title = "Version française"
+    contentDir = "content/fr"
+  [languages.el]
+    LanguageCode  = "el"
+    LanguageName = "Ελληνικά"
+    weight = 4
+    title = "Ελληνική έκδοση"
+    contentDir = "content/el"
+
+
+[pagination]
+pagerSize = 6
+
+[Params]
+comments = false
+dateFormat = "02 January 2006"
+delayDisqus = true
+description="Your can add your website description here."
+gcse = false
+hideAuthor = true
+lastmod = true
+lunrSearch = true
+mainSections = ["imagepages", "post","posts"]
+pagination = "10"
+previewCardImagePlacement = "top"
+readingTime = false
+rss = false
+selfHosted = true
+showPostImage = false
+showRelatedPosts = true
+socialShare = true
+summaryLength  = "9"
+useHLJS = false
+wordCount = true
+
+[Params.Author]
+  #500px = "username"
+  authorInfo = "Live your life as though every moment matters, because in the end, it's not the years in your life, but the life in your years that counts."
+  authorPostImage = "/img/author-post-img.jpg"
+  #bandcamp = "username"
+  #bitbucket = "username"
+  # codepen = "username"
+  email = "artemis@yagou.gr"
+  facebook = "artemisyagou"
+  github = "artemisyagou"
+  #gitlab = "username"
+  instagram = "username"
+  #itchio = "username"
+  #kaggle = "username"
+  linkedin = "artemisyagou"
+  #mastodon = "url"
+  name = "Artemis Yagou"
+  paypal = "username"
+  #reddit = "username"
+  #slack = "username"
+  #snapchat = "username"
+  #soundcloud = "username"
+  #spotify = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #telegram = "username"
+  #threads = "username"
+  twitter = "ArtemisYagou"
+  #vk = "username"
+  website = "https://www.yagou.gr/"
+  #weibo = "username"
+  #xing = "username"
+  #youtube = "user/username" # or channel/channelname
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/blog/"
+    weight = 3
+
+[[menu.main]]
+    name = "Collections"
+    url = "/collections/"
+    weight = 4
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
