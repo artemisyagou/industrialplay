@@ -1,9 +1,9 @@
 ---
-title: "en AnkerStructure"
+title: "The Importance of Order"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/AnkerStructure.jpg"
 category: "Gender"
-country_of_origin: "Spain"
+country_of_origin: "Germany"
 draft: false
 description: This photo shows ...
 ---
