@@ -1,0 +1,87 @@
+# Content
+- id: dateFormat
+  translation: "2 January 2006"
+- id: shortdateFormat
+  translation: "2 Jan 2006 15:04:05"
+- id: postedOnDate
+  translation: "Δημοσιεύθηκε {{ . }}"
+- id: lastModified
+  translation: "(Τελευταία ενημέρωση {{ . }})"
+- id: translationsLabel
+  translation: "Άλλες γλώσσες: "
+- id: translationsSeparator
+  translation: ", "
+- id: readMore
+  translation: "Περισσότερα"
+- id: olderPosts
+  translation: "Παλιότερες αναρτήσεις"
+- id: newerPosts
+  translation: "Νεότερες αναρτήσεις"
+- id: previousPost
+  translation: "Προηγούμενη ανάρτηση"
+- id: nextPost
+  translation: "Επόμενη ανάρτηση"
+- id: readTime
+  translation:
+    one: "λεπτό"
+    other: "λεπτά"
+- id: words
+  translation:
+    one: "λέξη"
+    other: "λέξεις"
+
+
+# 404 page
+- id: pageNotFound
+  translation: "Whoops, this page doesn't exist. Move along. (404 error)"
+
+  # Footer
+- id: poweredBy # Accepts HTML
+  translation: 'Powered by <a href="https://gohugo.io">Hugo</a> & <a href="https://github.com/binokochumolvarghese/lightbi-hugo">Lightbi.</a>&nbsp; Made with ❤ by <a href="https://binovarghese.com">Bino</a>'
+
+# Navigation
+- id: toggleNavigation
+  translation: "Toggle navigation"
+- id: languageSwitcherLabel
+  translation: "Language"
+- id: gcseLabelShort
+  translation: "Search"
+- id: gcseLabelLong
+  translation: "Search {{ .Site.Title }}"
+- id: gcseClose
+  translation: "Close"
+
+# Staticman
+- id: noComment
+  translation: "No comment"
+- id: oneComment
+  translation: "comment"
+- id: moreComment
+  translation: "comments"
+- id: useMarkdown
+  translation: "You can use Markdown syntax"
+- id: yourName
+  translation: "Your name"
+- id: yourEmail
+  translation: "Your email address"
+- id: yourWebsite
+  translation: "You website"
+
+# Delayed Disqus
+- id: show
+  translation: "Show"
+- id: comments
+  translation: "comments"
+
+# Related posts
+- id: seeAlso
+  translation: "Σχετικά"
+
+# Search
+- id: noSearchResults
+  translation: "No results found for “{{ .Term }}”"
+
+- id: someSearchResults
+  translation:
+    one: "Found one result for “{{ .Term }}”"
+    other: "Found {{ .Count }} results for “{{ .Term }}”"
