@@ -1,20 +1,16 @@
 ---
-title: "en MatadorGirl"
+title: "A Matador Girl"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MatadorGirl.jpg"
-category: "Domesticity"
-country_of_origin: "Britain"
+category: "Gender"
+country_of_origin: "Austria"
 draft: false
-description: This photo shows ...
+description: The sets intended for girls...
 ---
 
-{{< figure src="/img/MatadorGirl.jpg" title="MatadorGirl" >}}
+{{< figure src="/img/MatadorGirl.jpg" >}}
 
-Text written in en
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The sets intended for girls connected the increasing popularisation of technology to the manufacturer’s anticipation of a new target group. The first page of the 1930 Christmas issue of the *Matador Zeitung* was dominated by the picture of a teenage girl and a *Matador* construction for girls, a small but quite elaborate handloom. According to the accompanying text, the handloom was designed through the contributions of several *Matador* ‘friends’, presumably boys; the girls would only be the end users. By following the detailed and highly complex instructions provided, girls could weave small pieces of fabric. The boys’ effort, disguised as play, had resulted in this working tool for girls; both boys and girls had to conform to the dominant logic of productivity and service. Regardless of gender, children were expected to be obedient and industrious workers. Learning to be a useful part of the great industrial world was implicit in many building sets.
 
 
 {{< details "Origin" >}}

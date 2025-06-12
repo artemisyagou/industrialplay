@@ -1,20 +1,16 @@
 ---
-title: "en Medieval"
+title: "Medieval and Modern?"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Medieval.jpg"
-category: "Fear"
+category: "Nationalism"
 country_of_origin: "Germany"
 draft: false
-description: This photo shows ...
+description: Designs and visual representations in toy products...
 ---
 
-{{< figure src="/img/Medieval.jpg" title="Medieval" >}}
+{{< figure src="/img/Medieval.jpg" >}}
 
-Text written in en
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Designs and visual representations in toy products incorporated both historical and modern elements of a national culture – this combination was presumably attractive to the public. For example, during the First World War, Anker-Richter manufactured the Fortresses (Festungen) Series for the Austrian market. One of the illustrations in the Series’ manuals depicted a very intriguing combination: a medieval-looking rider co-existed with a concrete bunker and modern cannons. In this image, military ideals bridged a mythical past with present-day concerns. One wonders what young users and their parents would make of this anachronistic and bizarre co-existence of disparate elements. The contradictory nature of this illustration presents a telling example of the ambivalence towards modernity: the new was desired but also feared, while the old could be a source of consolation and security.
 
 
 {{< details "Origin" >}}
