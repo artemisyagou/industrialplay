@@ -23,7 +23,7 @@ title = 'Industrial Play'
     LanguageCode  = "en"
     LanguageName = "English"
     weight = 1
-    title = "English version"
+    title = "Industrial Play"
     contentDir = "content/en"
   [languages.de]
     LanguageCode  = "de"
@@ -109,19 +109,9 @@ wordCount = true
     weight = 1
 
 [[menu.main]]
-    name = "Notes"
-    url = "/notes/"
-    weight = 2
-
-[[menu.main]]
     name = "Tags"
     url = "/tags/blog/"
     weight = 3
-
-[[menu.main]]
-    name = "Collections"
-    url = "/collections/"
-    weight = 4
 
 [[menu.main]]
     name = "About"
