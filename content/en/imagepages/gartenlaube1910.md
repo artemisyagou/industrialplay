@@ -9,7 +9,7 @@ draft: false
 description: This photo shows ...
 ---
 
-{{< figure src="/img/Gartenlaube1910.jpg" title="Gartenlaube1910" >}}
+{{< figure src="/img/Gartenlaube1910.jpg" >}}
 
 Text written in en
 

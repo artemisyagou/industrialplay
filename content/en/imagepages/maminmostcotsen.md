@@ -9,7 +9,7 @@ draft: false
 description: This photo shows ...
 ---
 
-{{< figure src="/img/MaminMostCotsen.jpg" title="MaminMostCotsen" >}}
+{{< figure src="/img/MaminMostCotsen.jpg" >}}
 
 Text written in en
 

@@ -9,7 +9,7 @@ draft: false
 description: This photo shows ...
 ---
 
-{{< figure src="/img/AnkerStructure.jpg" title="AnkerStructure" >}}
+{{< figure src="/img/AnkerStructure.jpg" >}}
 
 Text written in en
 

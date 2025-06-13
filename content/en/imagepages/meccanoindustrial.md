@@ -9,7 +9,7 @@ draft: false
 description: This photo shows ...
 ---
 
-{{< figure src="/img/MeccanoIndustrial.jpg" title="MeccanoIndustrial" >}}
+{{< figure src="/img/MeccanoIndustrial.jpg" >}}
 
 Text written in en
 

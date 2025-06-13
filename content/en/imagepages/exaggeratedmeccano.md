@@ -9,7 +9,7 @@ draft: false
 description: Many construction sets were highly complicated and...
 ---
 
-{{< figure src="/img/ExaggeratedMeccano.jpg" title="ExaggeratedMeccano" >}}
+{{< figure src="/img/ExaggeratedMeccano.jpg" >}}
 
 Many construction sets were highly complicated and assembling them was tough, especially when the instructions were brief and complex, or when the pieces were very small, awkward to manipulate and unreliable.
 
