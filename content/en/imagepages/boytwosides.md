@@ -4,6 +4,7 @@ date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/BoyTwoSides.jpg"
 category: "Emotions"
 country_of_origin: "United States"
+tags: ["education", "gender"]
 draft: false
 description: "Gilbert’s Erector set was one of the most famous and successful..."
 ---

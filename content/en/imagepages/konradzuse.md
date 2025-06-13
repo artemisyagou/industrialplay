@@ -4,6 +4,7 @@ date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/KonradZuse.jpg"
 category: "How they Played"
 country_of_origin: "Germany"
+tags: ["technology", "how they played"]
 draft: false
 description: The computer pioneer Konrad Zuse (1910–1995), wrote...
 ---

@@ -4,7 +4,7 @@ date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Construction.jpg"
 category: "Structure"
 country_of_origin: "Germany"
-tags: ["construction"]
+tags: ["technology", "construction"]
 draft: false
 description: ‘Construction sets’, ‘construction kits’, or ‘building sets’ are...
 ---

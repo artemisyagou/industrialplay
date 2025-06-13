@@ -4,6 +4,7 @@ date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/EscherLike.jpg"
 category: "Structure"
 country_of_origin: "Germany"
+tags: ["structure", "education"]
 draft: false
 description: The emphasis of construction toys on...
 ---

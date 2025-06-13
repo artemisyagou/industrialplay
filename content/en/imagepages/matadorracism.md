@@ -4,7 +4,7 @@ date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/MatadorRacism.jpg"
 category: "FearPolitics"
 country_of_origin: "Austria"
-tags: ["politics"]
+tags: ["politics", "marketing"]
 draft: false
 description: Much of the promotion for the Austrian firm Matador was...
 ---

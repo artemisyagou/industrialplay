@@ -4,6 +4,7 @@ date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Gartenlaube1910.jpg"
 category: "Structure"
 country_of_origin: "Britain"
+tags: ["education", "structure"]
 draft: false
 description: This photo shows ...
 ---

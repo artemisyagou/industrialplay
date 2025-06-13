@@ -4,6 +4,7 @@ date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/BoyFigueres.jpg"
 category: "How they Played"
 country_of_origin: "Spain"
+tags: ["education", "how they played"]
 draft: false
 description: An image from interwar Barcelona...
 ---

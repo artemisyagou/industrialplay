@@ -3,7 +3,8 @@ title: "en MaminMostCotsen"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MaminMostCotsen.jpg"
 category: "Structure"
-country_of_origin: "Germany"
+country_of_origin: "Soviet Union"
+tags: ["politics", "gender"]
 draft: false
 description: This photo shows ...
 ---

@@ -4,6 +4,7 @@ date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MachineMan.jpg"
 category: "Racism"
 country_of_origin: "Germany"
+tags: ["technology", "emotions"]
 draft: false
 description: This photo shows ...
 ---

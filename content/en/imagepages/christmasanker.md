@@ -4,6 +4,7 @@ date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/ChristmasAnker.jpg"
 category: "Consumption"
 country_of_origin: "Germany"
+tags: ["education", "family"]
 draft: false
 description: The consumption of toys was...
 ---

@@ -1,20 +1,17 @@
 ---
-title: "en ExaggeratedMeccano"
+title: "Marketing Tricks"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/ExaggeratedMeccano.jpg"
-category: "Racism"
-country_of_origin: "Germany"
+category: "Marketing"
+country_of_origin: "Britain"
+tags: ["politics", "gender"]
 draft: false
-description: This photo shows ...
+description: Many construction sets were highly complicated and...
 ---
 
 {{< figure src="/img/ExaggeratedMeccano.jpg" title="ExaggeratedMeccano" >}}
 
-Text written in en
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Many construction sets were highly complicated and assembling them was tough, especially when the instructions were brief and complex, or when the pieces were very small, awkward to manipulate and unreliable.
 
 
 {{< details "Origin" >}}

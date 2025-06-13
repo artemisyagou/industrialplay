@@ -4,6 +4,7 @@ date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/Neureuther.jpg"
 category: "Structure"
 country_of_origin: "Germany"
+tags: ["education", "family"]
 draft: false
 description: From the beginning...
 ---
