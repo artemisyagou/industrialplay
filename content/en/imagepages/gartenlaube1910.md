@@ -1,6 +1,6 @@
 ---
 title: "Delayed Gratification"
-date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
+date: 2025-06-09T00:00:00+01:00 # ISO 8601 date
 image: "/preview/Gartenlaube1910.jpg"
 category: "Structure"
 country_of_origin: "Germany"

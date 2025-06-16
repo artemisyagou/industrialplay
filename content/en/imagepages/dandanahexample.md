@@ -1,6 +1,6 @@
 ---
 title: "Is it a Toy?"
-date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
+date: 2025-06-20T00:00:00+01:00 # ISO 8601 date
 image: "/preview/DandanahExample.jpg"
 category: "Utopia"
 country_of_origin: "Germany"

@@ -1,6 +1,6 @@
 ---
 title: "Politicised Play"
-date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
+date: 2025-06-16T00:00:00+01:00 # ISO 8601 date
 image: "/preview/MatadorRacism.jpg"
 category: "FearPolitics"
 country_of_origin: "Austria"

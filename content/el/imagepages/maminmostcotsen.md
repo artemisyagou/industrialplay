@@ -1,6 +1,6 @@
 ---
 title: "Mother's Bridge"
-date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
+date: 2025-06-18T00:00:00+01:00 # ISO 8601 date
 image: "/preview/MaminMostCotsen.jpg"
 category: "Structure"
 country_of_origin: "Soviet Union"
