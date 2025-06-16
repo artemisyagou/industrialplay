@@ -4,7 +4,7 @@ date: 2025-05-02T00:00:00+01:00 # ISO 8601 date
 image: "/preview/KonradZuse.jpg"
 category: "How they Played"
 country_of_origin: "Germany"
-tags: ["technology", "how they played"]
+tags: ["technology", "howtheyplayed"]
 draft: false
 description: Le pionnier de l'ordinateur Konrad Zuse...
 ---

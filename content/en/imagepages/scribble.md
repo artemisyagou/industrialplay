@@ -4,7 +4,7 @@ date: 2025-05-01T00:00:00+01:00 # ISO 8601 date
 image: "/preview/Scribble.jpg"
 category: "Emotions"
 country_of_origin: "Germany"
-tags: ["how they played", "emotions"]
+tags: ["howtheyplayed", "emotions"]
 draft: false
 description: When examining old construction toys...
 ---

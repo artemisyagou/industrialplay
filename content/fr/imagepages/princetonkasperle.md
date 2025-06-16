@@ -4,7 +4,7 @@ date: 2025-05-04T00:00:00+01:00 # ISO 8601 date
 image: "/preview/PrincetonKasperle.jpg"
 category: "Free Play"
 country_of_origin: "Germany"
-tags: ["how they played", "family"]
+tags: ["howtheyplayed", "family"]
 draft: false
 description: Le jeu de construction spontané et ad hoc est...
 ---
