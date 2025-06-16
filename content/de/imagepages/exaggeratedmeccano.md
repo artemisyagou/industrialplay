@@ -1,6 +1,6 @@
 ---
 title: "Marketing-Tricks"
-date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
+date: 2025-06-22 # ISO 8601 date
 image: "/preview/ExaggeratedMeccano.jpg"
 category: "Marketing"
 country_of_origin: "Britain"

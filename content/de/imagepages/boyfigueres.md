@@ -1,6 +1,6 @@
 ---
 title: "Ein Junge aus Barcelona"
-date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
+date: 2025-06-14 # ISO 8601 date
 image: "/preview/BoyFigueres.jpg"
 category: "How they Played"
 country_of_origin: "Spain"

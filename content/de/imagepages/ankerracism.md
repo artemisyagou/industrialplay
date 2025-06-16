@@ -1,6 +1,6 @@
 ---
 title: "Gelegentlicher Rassismus"
-date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
+date: 2025-06-01 # ISO 8601 date
 image: "/preview/AnkerRacism.jpg"
 category: "Politics"
 country_of_origin: "Germany"
