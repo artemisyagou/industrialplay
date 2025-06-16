@@ -1,12 +1,12 @@
 ---
-title: "Leaving Traces"
+title: "Laisser des traces"
 date: 2025-05-01T00:00:00+01:00 # ISO 8601 date
 image: "/preview/Scribble.jpg"
 category: "Emotions"
 country_of_origin: "Germany"
 tags: ["how they played", "emotions"]
 draft: false
-description: When examining old construction toys...
+description: Lors de l'examen des anciens jouets de construction...
 ---
 
 
