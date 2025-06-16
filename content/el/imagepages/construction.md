@@ -6,7 +6,7 @@ category: "Structure"
 country_of_origin: "Germany"
 tags: ["technology", "construction"]
 draft: false
-description: ‘Construction sets’, ‘construction kits’, or ‘building sets’ are...
+description: Construction sets, construction kits, or building sets are...
 ---
 
 

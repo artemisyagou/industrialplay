@@ -6,7 +6,7 @@ category: "Structure"
 country_of_origin: "Germany"
 tags: ["technology", "construction"]
 draft: false
-description: "Konstruktionsspielzeug" oder "Baukasten" sind Spielzeug, die...
+description: Konstruktionsspielzeug oder Baukasten sind Spielzeug, die...
 ---
 
 
