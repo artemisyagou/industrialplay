@@ -6,18 +6,14 @@ category: "Gender"
 country_of_origin: "Germany"
 tags: ["structure", "education"]
 draft: false
-description: This photo shows ...
+description: Le contenant et l'emballage des jeux de construction...
 ---
 
 
 
 {{< figure src="/img/AnkerStructure.jpg" >}}
 
-Texte écrit en en
-
-Lorem ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Sed do eiusmod tempory incidint ut Labore et dolore magna aliqua.
-
-Ut enim ad minim veiam, quis nostrud exercice ullamco lAbis nisi ut Aliquip ex ea Commodo consécutif. Duis aute irure Dolor en repreahance dans voluptate Velit Esse Cillum Dolore eu fugiat nulla pariatur.
+Le contenant et l'emballage des jeux de construction, où toutes les pièces pouvaient être disposées et stockées selon un plan d'emballage spécifique, favorisaient tout particulièrement l'idée d'ordre et de structure et encourageaient les jeunes esprits à reconnaître la multiplicité dans l'unité. Il s'agit d'un concept innovant systématiquement introduit par Fröbel's Gifts ; les briques étaient stockées et présentées aux enfants d'une manière qui déterminait la façon dont elles devaient être utilisées. *Anker-Richter* a également encouragé des dispositions d'emballage spécifiques qui mettaient en évidence les blocs d'un jeu comme une unité harmonieuse composée d'éléments multiples.
 
 {{< details "Origin" >}}
 
