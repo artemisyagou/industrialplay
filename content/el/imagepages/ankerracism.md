@@ -1,6 +1,6 @@
 ---
 title: "Casual Racism"
-date: 2025-05-10T00:00:00+01:00 # ISO 8601 date
+date: 2025-05-15T00:00:00+01:00 # ISO 8601 date
 image: "/preview/AnkerRacism.jpg"
 category: "Politics"
 country_of_origin: "Germany"

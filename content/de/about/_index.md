@@ -8,4 +8,4 @@ Diese Website ist eines der Ergebnisse des Forschungsprojekts von Dr. Artemis Ya
 
 ##### Social Media
 - [LinkedIn] (https://linkedin.com/in/artemisyagou)
-- [Akademie] (https://deutsches-museum.academia.edu/artemisyagou)
+- [Academia] (https://deutsches-museum.academia.edu/artemisyagou)
