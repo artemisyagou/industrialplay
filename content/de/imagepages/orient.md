@@ -5,7 +5,8 @@ image: "/preview/Orient.jpg"
 category: "Nationalism"
 country_of_origin: "Germany"
 tags: ["politics", "marketing"]
-draft: falseAbgesehen von spezifischen Fähigkeiten...
+draft: false
+description: Abgesehen von spezifischen Fähigkeiten...
 ---
 
 
