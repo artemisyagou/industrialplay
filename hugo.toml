@@ -25,24 +25,72 @@ title = 'Industrial Play'
     weight = 1
     title = "Industrial Play"
     contentDir = "content/en"
+	[[languages.en.menu.main]]
+	    name = "Home"
+	    url = "/en"
+	    weight = 1
+	[[languages.en.menu.main]]
+	    name = "Tags"
+	    url = "/en/tags/"
+	    weight = 3
+	[[languages.en.menu.main]]
+	    name = "About"
+	    url = "/en/about/"
+	    weight = 5
   [languages.de]
     LanguageCode  = "de"
     LanguageName = "Deutsch"
     weight = 2
     title = "Industrielles Spiel"
     contentDir = "content/de"
+	[[languages.de.menu.main]]
+	    name = "Startseite"
+	    url = "/de"
+	    weight = 1
+	[[languages.de.menu.main]]
+	    name = "Stichwörter"
+	    url = "/de/tags/"
+	    weight = 3
+	[[languages.de.menu.main]]
+	    name = "Über diese Website"
+	    url = "/de/about/"
+	    weight = 5
   [languages.fr]
     LanguageCode  = "fr"
     LanguageName = "Français"
     weight = 3
     title = "Jeu industriel"
     contentDir = "content/fr"
+	[[languages.fr.menu.main]]
+	    name = "Accueil"
+	    url = "/fr"
+	    weight = 1
+	[[languages.fr.menu.main]]
+	    name = "Mots clés"
+	    url = "/fr/tags/"
+	    weight = 3
+	[[languages.fr.menu.main]]
+	    name = "À propos"
+	    url = "/fr/about/"
+	    weight = 5
   [languages.el]
     LanguageCode  = "el"
     LanguageName = "Ελληνικά"
     weight = 4
     title = "Βιομηχανικό παιχνίδι"
     contentDir = "content/el"
+	[[languages.el.menu.main]]
+	    name = "Αρχική"
+	    url = "/el"
+	    weight = 1
+	[[languages.el.menu.main]]
+	    name = "Ετικέτες"
+	    url = "/el/tags/"
+	    weight = 3
+	[[languages.el.menu.main]]
+	    name = "Σχετικά με τον ιστότοπο"
+	    url = "/el/about/"
+	    weight = 5
 
 
 [pagination]
@@ -105,20 +153,6 @@ wordCount = false
   #xing = "username"
   #youtube = "user/username" # or channel/channelname
 
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
-[[menu.main]]
-    name = "Tags"
-    url = "/tags/blog/"
-    weight = 3
-
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 5
 
 [sitemap]
   changefreq = "monthly"
