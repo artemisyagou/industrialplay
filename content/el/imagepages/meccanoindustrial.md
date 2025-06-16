@@ -1,23 +1,23 @@
 ---
-title: "el MeccanoIndustrial"
+title: "In Awe or Afraid?"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MeccanoIndustrial.jpg"
 category: "Racism"
-country_of_origin: "Spain"
+country_of_origin: "Britain"
+tags: ["technology", "emotions"]
 draft: false
 description: This photo shows ...
 ---
 
-{{< figure src="/img/MeccanoIndustrial.jpg" title="MeccanoIndustrial" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MeccanoIndustrial.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Εξετάστε την απεικόνιση από το εξώφυλλο ενός βρετανικού κιβωτίου μετάλλου του εικοστού αιώνα * Meccano * για τη γερμανική αγορά. Δείχνει ένα κομψά ντυμένο αγόρι που κάθεται μπροστά σε ένα τραπέζι και κατασκευάζοντας έναν μεταλλικό γερανό, η πλάτη του στράφηκε στον θεατή της εικόνας. Στο βάθος που αντιμετωπίζει το αγόρι, υπάρχει ένα επιβλητικό βιομηχανικό τοπίο εργοστασίων, γερανών, καμινάδων και καπνού. Η λεζάντα αναφέρει: «Ο κόσμος θαύματα της τεχνολογίας που συγκεντρώθηκαν στο σπίτι σας». Το αγόρι βρίσκεται σε ουδέτερο και κάπως σουρεαλιστικό χώρο, ούτε μέσα ούτε έξω. Το πρόσωπό του δεν φαίνεται, επιτρέποντάς μας έτσι μόνο να φανταστούμε την έκφρασή του και να εικαστεί για τα συναισθήματά του. Είναι εμπνευσμένος από την άποψη που αποτελεί παράδειγμα του τεχνολογικού δυναμικού; Ονειρεύεται το δικό του μέλλον ως μηχανικός; Ή είναι ίσως συγκλονισμένος από την πολυπλοκότητα του κόσμου που βρίσκεται μπροστά του; Η εικόνα είναι αμφιλεγόμενη και ανοιχτή στην ερμηνεία. Σίγουρα δεν αντικατοπτρίζει την αγωνία που συχνά συνδέεται με την παιδική ηλικία. Μάλλον αντιπροσωπεύει τα συναισθήματα των ενηλίκων προς το άγνωστο - το αβέβαιο, συλλογικό μέλλον - συμβολισμένο από τα παιδιά.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

@@ -1,23 +1,23 @@
 ---
-title: "el Construction"
+title: "What are Construction Toys?"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Construction.jpg"
 category: "Structure"
-country_of_origin: "Soviet Union"
+country_of_origin: "Germany"
+tags: ["technology", "construction"]
 draft: false
-description: This photo shows ...
+description: ‘Construction sets’, ‘construction kits’, or ‘building sets’ are...
 ---
 
-{{< figure src="/img/Construction.jpg" title="Construction" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/Construction.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Τα 'σύνολα κατασκευών', 'κιτ κατασκευών' ή 'σύνολα κτιρίων' είναι playthings που αποτελούνται από μπλοκ ή άλλα αρθρωτά στοιχεία που στοχεύουν στην κατασκευή δομών όπως σπίτια, γέφυρες ή γερανούς. Προέρχονται από τον κόσμο της μηχανικής και των μηχανημάτων. Οι ενήλικες που τους δημιούργησαν εμπνεύστηκαν από το αρχιτεκτονικό και τεχνολογικό περιβάλλον και επινοούσαν παιχνίδια με βάση τις ευκαιρίες που αυτά τα περιβάλλοντα αντέχουν για το παιχνίδι και για ευχάριστη διδασκαλία. Ανήκουν σε παιχνίδια εμπνευσμένα από την τεχνολογία, «τεχνικά παιχνίδια», κατάλληλα σε έναν κόσμο αυξανόμενης μηχανοποίησης, όπου ο αντίκτυπος της μηχανικής στην κοινωνία ήταν ολοένα και πιο ορατή και έντονα αισθητή στην καθημερινή ζωή. Ωστόσο, τα τεχνικά παιχνίδια δεν αποτελούν ομοιόμορφη κατηγορία, αλλά μπορούν να υποδιαιρεθούν σε πολυάριθμες υποενότητες τόσο διαφορετικές όσο τα σύνολα κατασκευών και τα τρένα παιχνιδιών - και πιο πρόσφατα κιτ πειράματος και παιχνίδια υπολογιστών, για να αναφέρουμε μόνο μερικά.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

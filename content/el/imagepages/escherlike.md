@@ -1,23 +1,23 @@
 ---
-title: "el EscherLike"
+title: "Geometry and Grids"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/EscherLike.jpg"
-category: "Racism"
-country_of_origin: "Soviet Union"
+category: "Structure"
+country_of_origin: "Germany"
+tags: ["structure", "education"]
 draft: false
-description: This photo shows ...
+description: The emphasis of construction toys on...
 ---
 
-{{< figure src="/img/EscherLike.jpg" title="EscherLike" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/EscherLike.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Η έμφαση των κατασκευαστικών παιχνιδιών σε γεωμετρικά και δομικά χαρακτηριστικά συνδέεται επίσης με τη σημασία των δομών του δικτύου. Ένα πλέγμα είναι ένα μοτίβο ή μια δομή από οριζόντιες και κατακόρυφες γραμμές που διασχίζουν ο ένας τον άλλον για να σχηματίσουν τετράγωνα. Το πλέγμα υπήρξε ήδη στον δυτικό πολιτισμό από τους παλαιολιθικούς χρόνους. Καθορίζει μια σχέση μέτρησης με τον κόσμο και αποτελεί ένδειξη εξουσίας. Σταδιακά, το πλέγμα έγινε η κυρίαρχη μορφή για τη δομή του κατοίκου χώρου, πράγματι για την εξημέρωση του χώρου. Συγκεκριμένα στη χαρτογραφία, το δίκτυο έγινε η κύρια σύμβαση για την εκπροσώπηση και την κατασκευή της πραγματικότητας, έναν τρόπο παροχής ενός ορισμένου μέτρου ασφάλειας. Στα εκπαιδευτικά πλαίσια, αυτή η λογική εκφράστηκε οπτικά στις δύο διαστάσεις μέσω του πανταχού παρόντος πλέγματος: σχετικά με τη διάταξη των χώρων, στις επιφάνειας επιφάνειας, σε διαγράμματα και εγχειρίδια, καθώς και σε εγχειρίδια παιχνιδιών κατασκευής. Το πλέγμα ή η επιφάνεια ήταν μια ισχυρή, κανονιστική συσκευή, δημιουργώντας ένα γεωμετρικό, ρυθμικό πλαίσιο που σταδιακά εσωτερικοποιήθηκε από τα παιδιά.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

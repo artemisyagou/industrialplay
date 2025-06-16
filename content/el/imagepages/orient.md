@@ -1,23 +1,23 @@
 ---
-title: "el Orient"
+title: "Oriental Charm"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Orient.jpg"
-category: "Racism"
-country_of_origin: "Spain"
+category: "Nationalism"
+country_of_origin: "Germany"
+tags: ["politics", "marketing"]
 draft: false
-description: This photo shows ...
+description: Apart from specific skills, ...
 ---
 
-{{< figure src="/img/Orient.jpg" title="Orient" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/Orient.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Εκτός από συγκεκριμένες δεξιότητες, καταλόγους και εγχειρίδια κατασκευαστικών παιχνιδιών που ενσταλάστηκαν διάφορες ιδέες. Για παράδειγμα, τα φύλλα μοτίβων πλούσιων σε Anker περιλάμβαναν συνήθως εκκλησίες. Αυτό θα μπορούσε να καθησυχάσει τους γονείς ότι τα παιδιά δεν ήταν μόνο εποικοδομητικά αλλά και θρησκευτικά - «ένας νικηφόρος συνδυασμός για μάθηση» στα τέλη του δέκατου ένατου αιώνα. Ταυτόχρονα, οι μακρινές κουλτούρες και θρησκείες συμπεριλήφθηκαν στο ρεπερτόριο των κατασκευαστικών παιχνιδιών και των εικονογραφημένων καταλόγων τους. Τα κτίρια από τα μακρινά εδάφη και άλλες «εξωτικές» δομές ήταν συναρπαστικά και ελκυστικά. Ένα σύνολο ξύλινων μπλοκ με τίτλο *Orient *, από τον S.F. Fischer, Oberseiffenbach (Γερμανία), CA. 1900, θα μπορούσε να χρησιμοποιηθεί για να κάνει ένα τζαμί. Το 1899 Exposition Universelle στο Παρίσι ήταν η ευκαιρία όταν δημιουργήθηκε ένα παιχνίδι κατασκευής με τίτλο Maisons Africaines (αφρικανικά σπίτια). Οι εκθέσεις παγκοσμίως, που ξεκίνησαν με το πρωτοποριακό γεγονός της Μεγάλης Έκθεσης στο Λονδίνο το 1851, δεν ήταν μόνο γεγονότα όπου παρουσιάστηκε η τελευταία τεχνολογία, αλλά και όπου θα μπορούσε να ανακαλυφθεί το «άλλο». Τα αντικείμενα που παρουσιάστηκαν σε διεθνείς εκθέσεις έφεραν απομακρυσμένες εκτάσεις και πολιτισμούς πιο κοντά στο ευρωπαϊκό κοινό. Οι διεθνείς εκθέσεις απολάμβαναν τεράστια επιτυχία και είχαν μόνιμο αντίκτυπο στη φαντασία των παιδιών στο δεύτερο μισό του δέκατου ένατου αιώνα. Παρ 'όλα αυτά, οι οθόνες ήταν γεμάτες από κλισέ.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

@@ -1,23 +1,23 @@
 ---
-title: "de Neureuther"
+title: "In the Cultural Pantheon"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/Neureuther.jpg"
 category: "Structure"
 country_of_origin: "Germany"
+tags: ["education", "family"]
 draft: false
-description: This photo shows ...
+description: From the beginning...
 ---
 
-{{< figure src="/img/Neureuther.jpg" title="Neureuther" >}}
 
-Text written in de
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/Neureuther.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Von Beginn ihrer Entwicklung waren die Baugruppen eng mit einer Reihe von Diskursen in verschiedenen Bereichen verbunden, einschließlich Bildung, Technologie und Geschlecht. Eine kraftvolle Illustration der wahrgenommenen Bedeutung von Bauspielzeug im 19. Jahrhundert wird durch ein Detail des Gemäldes von 1861 in München * (Blüte der Kunst in München) von Eugen Napoleon Neureuther (1806–1882) dargestellt, ein Werk, das jetzt in der Ansammlung des Sammelschacks in der Sammlung von Sammelung in der Sammelschack in der Ansammlung von Sammelung in Metzen. Das Gemälde wurde von Raphaels * The School of Athens * (1509) inspiriert und sollte die München -Kunstszene während der Regierungszeit von Ludwig I I durch die Darstellung einer Reihe von angesehenen lokalen Persönlichkeiten dieser Zeit verherrlichen. Ein Detail des Gemäldes an der unteren linken Ecke zeigt einen Jungen auf dem Boden und baut ein Gebäude mit Blöcken. Das gut gekleidete Kind, vermutlich zu einer Familie der Oberschicht, ist in Einzelspiel absorbiert. Obwohl dies eine idealisierte Darstellung ist, die die Ansichten von Erwachsenen und nicht die Kinder widerspiegelt, unterstreicht sie die grundlegende Rolle von Bauspielzeug im kulturellen Pantheon und ihr Potenzial, zukünftige Generationen zu formen. Das Gemälde zeigt, dass zumindest in Bezug auf Bildungsunternehmen für Bildungskonstruktionen das früher wahrgenommene Ungemalte des Spiels als kindliche Aktivität die Glaubwürdigkeit verloren hatte. Diese Spielzeuge wurden von den Erwachsenen, die sie geschaffen haben, sehr ernst genommen, um wichtige Ziele im Zusammenhang mit der Erziehung ihrer Kinder zu erreichen.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Einige Platzhalterinhalte für den Ursprung. Dieses Panel ist standardmäßig versteckt, enthüllt jedoch, wenn der Benutzer klickt.
+
 {{< /details >}}
 

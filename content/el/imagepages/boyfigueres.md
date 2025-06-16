@@ -1,23 +1,23 @@
 ---
-title: "el BoyFigueres"
+title: "A Boy from Barcelona"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/BoyFigueres.jpg"
-category: "Utopia"
-country_of_origin: "Germany"
+category: "How they Played"
+country_of_origin: "Spain"
+tags: ["education", "how they played"]
 draft: false
-description: This photo shows ...
+description: An image from interwar Barcelona...
 ---
 
-{{< figure src="/img/BoyFigueres.jpg" title="BoyFigueres" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/BoyFigueres.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Μια εικόνα από τη Μεσοπολέμηση της Βαρκελώνης είναι αρκετά αμφίθυμη. Δείχνει ένα αγόρι που κάθεται στο πάτωμα - ενδεχομένως στην αυλή ή στο μπαλκόνι του σπιτιού του - ντυμένος με το καλύτερο κοστούμι του ναύτη, η έκφρασή του δύσκολη να ερμηνεύσει. Τα μεταλλικά σετ κατασκευής τοποθετούνται μπροστά του, αλλά δεν φαίνεται να απολαμβάνει τον εαυτό του. Το αγόρι είναι ο Joan Ainaud de Lasarte (1919-1995), ο οποίος έγινε ιστορικός και κριτικός τέχνης. Ήταν ο γιος του Manuel Ainaud Sánchez (1885-1932), ένας παιδαγωγός, καλλιτέχνης και πρωτοπόρος της φωτογραφίας στην Καταλονία. Η εικόνα είναι από το 1928, το αγόρι ήταν επομένως περίπου εννέα ετών. Η φωτογραφία φαίνεται να είναι διοργανωμένη, το έργο του περήφανου γονέα που ίσως ήθελε να δείξει ότι ο γιος του πέρασε χρόνο με σύνθετα τεχνικά παιχνίδια. Η εικόνα προσφέρει συμβουλές - αλλά χωρίς απαντήσεις. Σε κάθε περίπτωση, μας βοηθά να έρθουμε πιο κοντά στο αγόρι και να συνειδητοποιήσουμε μαζί του.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

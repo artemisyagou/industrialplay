@@ -1,23 +1,23 @@
 ---
-title: "fr Gartenlaube1910"
+title: "Delayed Gratification"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Gartenlaube1910.jpg"
 category: "Structure"
-country_of_origin: "Britain"
+country_of_origin: "Germany"
+tags: ["marketing", "education"]
 draft: false
-description: This photo shows ...
+description: A major innovation introduced by...
 ---
 
-{{< figure src="/img/Gartenlaube1910.jpg" title="Gartenlaube1910" >}}
 
-Text written in fr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/Gartenlaube1910.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Une innovation majeure introduite par l'entreprise * Anker-Richter *, a été la pratique de la «série», à travers laquelle l'utilisateur de l'enfant pourrait accumuler des blocs progressivement, en achetant un ensemble simple et bon marché pour commencer et le compléter progressivement. Les fabricants de jouets ont encouragé les enfants à économiser de l'argent afin de pouvoir acheter régulièrement de nouveaux suppléments et de continuer à ajouter à leur collection. Le système de la série a permis même des enfants de moyens financiers limités d'acquérir ces jouets relativement coûteux et de participer à la communauté des joueurs. De plus, et plus important encore, grâce au système de la série, les fabricants ont approuvé l'épargne, la patience et la persistance en tant qu'actifs majeurs. Ils ont éduqué les utilisateurs des enfants dans une logique d'anticipation et de progrès étape par étape, et les ont «percés» dans les manières et les plaisirs de la consommation moderne.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Un contenu d'origine pour l'origine. Ce panneau est caché par défaut mais révélé lorsque l'utilisateur clique.
+
 {{< /details >}}
 

@@ -1,23 +1,23 @@
 ---
-title: "de Gartenlaube1910"
+title: "Delayed Gratification"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Gartenlaube1910.jpg"
 category: "Structure"
-country_of_origin: "Britain"
+country_of_origin: "Germany"
+tags: ["marketing", "education"]
 draft: false
-description: This photo shows ...
+description: A major innovation introduced by...
 ---
 
-{{< figure src="/img/Gartenlaube1910.jpg" title="Gartenlaube1910" >}}
 
-Text written in de
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/Gartenlaube1910.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Eine große Innovation, die vom Unternehmen *Anker-Richter *eingeführt wurde, war die Praxis der „Serie“, durch die der Kinderbenutzer schrittweise Blöcke ansammeln konnte, indem er ein einfaches und billiges Set zunächst mit dem Kauf und ergänzen sie nach und nach ergänzt. Spielzeughersteller ermutigten Kinder, Geld zu sparen, um regelmäßig neue Nahrungsergänzungsmittel kaufen zu können und ihre Sammlung weiter zu erweitern. Das Seriensystem ermöglichte es auch Kindern mit begrenzten finanziellen Mitteln, diese relativ teuren Spielzeuge zu erwerben und an der Spielergemeinschaft teilzunehmen. Zusätzlich und vor allem durch das Seriensystem befürworteten Hersteller Sparsamkeit, Geduld und Beharrlichkeit als Hauptvermögen. Sie bildeten die Benutzer von Kindern in eine Logik der Vorfreude und Schritt-für-Schritt-Fortschritte aus und „gebohrt“ sie auf die Art und Weise und Freuden des modernen Konsums.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Einige Platzhalterinhalte für den Ursprung. Dieses Panel ist standardmäßig versteckt, enthüllt jedoch, wenn der Benutzer klickt.
+
 {{< /details >}}
 

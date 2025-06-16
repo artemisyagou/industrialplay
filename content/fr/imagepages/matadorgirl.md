@@ -1,23 +1,23 @@
 ---
-title: "fr MatadorGirl"
+title: "A Matador Girl"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MatadorGirl.jpg"
-category: "Domesticity"
-country_of_origin: "Britain"
+category: "Gender"
+country_of_origin: "Austria"
+tags: ["education", "gender"]
 draft: false
-description: This photo shows ...
+description: The sets intended for girls...
 ---
 
-{{< figure src="/img/MatadorGirl.jpg" title="MatadorGirl" >}}
 
-Text written in fr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MatadorGirl.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Les décors destinés aux filles ont lié la popularisation croissante de la technologie à l'anticipation par le fabricant d'un nouveau groupe cible. La première page du numéro de Noël de 1930 du * Matador Zeitung * a été dominée par l'image d'une adolescente et d'une construction * Matador * pour les filles, un métier à main petit mais assez élaboré. Selon le texte qui l'accompagne, le métier à main a été conçu par les contributions de plusieurs «amis» de * Matador *, vraisemblablement des garçons; Les filles ne seraient que les utilisateurs finaux. En suivant les instructions détaillées et très complexes fournies, les filles pouvaient tisser de petits morceaux de tissu. L’effort des garçons, déguisé en jeu, avait abouti à cet outil de travail pour les filles; Les garçons et les filles ont dû se conformer à la logique dominante de la productivité et du service. Quel que soit le sexe, les enfants devaient être des travailleurs obéissants et industrieux. Apprendre à être une partie utile du grand monde industriel était implicite dans de nombreux ensembles de bâtiments.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Un contenu d'origine pour l'origine. Ce panneau est caché par défaut mais révélé lorsque l'utilisateur clique.
+
 {{< /details >}}
 

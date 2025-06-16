@@ -1,23 +1,23 @@
 ---
-title: "de FamilySweden"
+title: "A Family in Sweden"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/FamilySweden.jpg"
 category: "Nationalism"
 country_of_origin: "Germany"
+tags: ["education", "family"]
 draft: false
-description: This photo shows ...
+description: A late nineteenth-century promotional leaflet of...
 ---
 
-{{< figure src="/img/FamilySweden.jpg" title="FamilySweden" >}}
 
-Text written in de
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/FamilySweden.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Eine Werbeblätterung des späten 19. Jahrhunderts des deutschen Unternehmens, der in dieser Zeit der Weltmarktführer in den Baugruppen ist, zeigt eine bemerkenswerte Familienszene in einem akribisch dekorierten bürgerlichen Wohnzimmer. Ein gut gekleideter Junge steht vor einem kleinen Tisch und fügt einem Gebäude aus * an Anker-Richter *-Blöcken die letzten Berührungen hinzu. Er ist konzentriert und ernst, als ob er eine wichtige Hausaufgaben macht. Die Mutter sitzt ihm gegenüber und sieht ihn intensiv an, während ihr Finger auf einer Seite des Spielhandbuchs zeigt. Sie scheint ihn zu überwachen und sicherzustellen, dass er die Anweisungen korrekt befolgt. Der Vater steht zwischen ihnen und fügt offenbar seine Autorität in die Szene hinzu, ohne direkte Beteiligung. Die Verpackung der Blöcke und relevanten Handbücher liegt auf einem Sessel und auf dem Boden und liefert das einzige lässige Detail in einer ansonsten sorgfältig strukturierten Umgebung und strahlt eine Atmosphäre der Disziplin und Ordnung aus, die alles andere als spielerisch oder angenehm ist. Die Illustration basierte tatsächlich auf einem Foto, das der abgebildete Vater selbst, Herrn Robert Roesler von Stockholm, geschickt hat, der erklärte: [Der * analer-Richter * Box] hat meinen kleinen Sohn nicht nur, sondern auch meiner Frau und mir sehr genießen. […] Kein anderes Spiel hat meinem Jungen so viel Vergnügen […] er hat es nie müde gemacht, er beginnt immer wieder zu bauen und ist bis zu einem gewissen Grad bereits in dieser Kunst geschickt. Ich bin ziemlich im Widerspruch zur düsteren Atmosphäre des Bildes.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Einige Platzhalterinhalte für den Ursprung. Dieses Panel ist standardmäßig versteckt, enthüllt jedoch, wenn der Benutzer klickt.
+
 {{< /details >}}
 

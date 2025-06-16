@@ -1,23 +1,23 @@
 ---
-title: "fr ChristmasAnker"
+title: "Christmas Toys"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/ChristmasAnker.jpg"
-category: "Fear"
-country_of_origin: "Spain"
+category: "Consumption"
+country_of_origin: "Germany"
+tags: ["education", "family"]
 draft: false
-description: This photo shows ...
+description: The consumption of toys was...
 ---
 
-{{< figure src="/img/ChristmasAnker.jpg" title="ChristmasAnker" >}}
 
-Text written in fr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/ChristmasAnker.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+La consommation de jouets était un outil pour construire et maintenir l'idéal domestique; Ce processus a été illustré par le marché de Noël, qui a joué un rôle central dans la production sociale et la reproduction de l'idéologie de la classe moyenne. Dans sa version moderne, Noël avait non seulement été transformé d'un festival beaucoup plus commun en une affaire de famille mettant l'accent sur les enfants et une vision idéalisée de la domesticité intime, mais aussi une affaire beaucoup plus commerciale. Comme l'institution de la famille a été forcée en retraite de la société moderne technocratique impersonnelle, elle s'est désespérément engagée dans un comportement de don en tant que mécanisme de liaison. En décorant la maison, les célébrations de la famille et les cadeaux, un lourd fardeau a été placé à Noël, ce qui a souligné la signification croissante de l'enfant. Les jouets sont devenus au cœur de ces rituels familiaux.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Un contenu d'origine pour l'origine. Ce panneau est caché par défaut mais révélé lorsque l'utilisateur clique.
+
 {{< /details >}}
 

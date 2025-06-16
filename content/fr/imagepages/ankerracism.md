@@ -1,23 +1,23 @@
 ---
-title: "fr AnkerRacism"
+title: "Casual Racism"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/AnkerRacism.jpg"
-category: "Utopia"
-country_of_origin: "Britain"
+category: "Politics"
+country_of_origin: "Germany"
+tags: ["politics", "gender"]
 draft: false
-description: This photo shows ...
+description: Visual representations in toy catalogues...
 ---
 
-{{< figure src="/img/AnkerRacism.jpg" title="AnkerRacism" >}}
 
-Text written in fr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/AnkerRacism.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Les représentations visuelles dans les catalogues et manuels de jouets ont soutenu une certaine familiarisation avec les cultures étrangères, mais aussi des stéréotypes perpétués. Parfois, des caractéristiques étrangères ont été incorporées de manière insensible ou pure et simple raciste, comme en témoignent par exemple une publicité de la firme Anker-Richter. Le texte de la publicité est indiqué comme une affiche à côté de laquelle se trouve un garçon africain. Le garçon est vêtu de chiffons et regarde l'affiche avec une expression de perplexité et d'incompréhension. L'image suggère implicitement la supériorité intellectuelle occidentale.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Un contenu d'origine pour l'origine. Ce panneau est caché par défaut mais révélé lorsque l'utilisateur clique.
+
 {{< /details >}}
 

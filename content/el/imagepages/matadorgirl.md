@@ -1,23 +1,23 @@
 ---
-title: "el MatadorGirl"
+title: "A Matador Girl"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MatadorGirl.jpg"
-category: "Domesticity"
-country_of_origin: "Britain"
+category: "Gender"
+country_of_origin: "Austria"
+tags: ["education", "gender"]
 draft: false
-description: This photo shows ...
+description: The sets intended for girls...
 ---
 
-{{< figure src="/img/MatadorGirl.jpg" title="MatadorGirl" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MatadorGirl.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Τα σύνολα που προορίζονταν για τα κορίτσια συνδέουν την αυξανόμενη δημοφιλή τεχνολογία με την πρόβλεψη από τον κατασκευαστή μιας νέας ομάδας -στόχου. Η πρώτη σελίδα του τεύχους των Χριστουγέννων του 1930 του * Matador Zeitung * κυριαρχείται από την εικόνα ενός εφηβικού κοριτσιού και μιας κατασκευής Matador * για κορίτσια, ένα μικρό αλλά αρκετά περίτεχνο χειροκίνητο. Σύμφωνα με το συνοδευτικό κείμενο, το Handloom σχεδιάστηκε μέσω της συμβολής πολλών * φίλων * 'Friends', πιθανώς αγόρια. Τα κορίτσια θα ήταν μόνο οι τελικοί χρήστες. Ακολουθώντας τις λεπτομερείς και εξαιρετικά περίπλοκες οδηγίες που παρέχονται, τα κορίτσια θα μπορούσαν να πλέκουν μικρά κομμάτια υφάσματος. Η προσπάθεια των αγοριών, μεταμφιεσμένη ως παιχνίδι, είχε οδηγήσει σε αυτό το εργαλείο εργασίας για τα κορίτσια. Τόσο τα αγόρια όσο και τα κορίτσια έπρεπε να συμμορφωθούν με την κυρίαρχη λογική της παραγωγικότητας και της υπηρεσίας. Ανεξάρτητα από το φύλο, τα παιδιά αναμένεται να είναι υπάκουοι και εργατικοί εργαζόμενοι. Η μάθηση να είναι ένα χρήσιμο μέρος του μεγάλου βιομηχανικού κόσμου ήταν σιωπηρή σε πολλά σύνολα κτιρίων.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

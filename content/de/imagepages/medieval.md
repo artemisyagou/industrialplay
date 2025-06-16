@@ -1,23 +1,23 @@
 ---
-title: "de Medieval"
+title: "Medieval and Modern?"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Medieval.jpg"
-category: "Fear"
+category: "Nationalism"
 country_of_origin: "Germany"
+tags: ["politics", "emotions"]
 draft: false
-description: This photo shows ...
+description: Designs and visual representations in toy products...
 ---
 
-{{< figure src="/img/Medieval.jpg" title="Medieval" >}}
 
-Text written in de
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/Medieval.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Designs und visuelle Darstellungen in Spielzeugprodukten haben sowohl historische als auch moderne Elemente einer nationalen Kultur einbezogen - diese Kombination war für die Öffentlichkeit vermutlich attraktiv. Zum Beispiel stellte Anker-Richter während des Ersten Weltkriegs die Festungen (Festungen) für den österreichischen Markt her. Eine der Abbildungen in den Handbüchern der Serie zeigte eine sehr faszinierende Kombination: ein mittelalterlich aussehender Fahrer, der mit einem Betonbunker und modernen Kanonen zusammengebracht wurde. In diesem Bild überbrückten militärische Ideale eine mythische Vergangenheit mit heutigen Bedenken. Man fragt sich, was junge Nutzer und ihre Eltern von diesem anachronistischen und bizarren Koexistenz unterschiedlicher Elemente machen würden. Die widersprüchliche Natur dieser Illustration zeigt ein aussagekräftiges Beispiel für die Ambivalenz gegenüber der Moderne: Das Neue wurde gewünscht, aber auch befürchtet, während der Alte eine Quelle von Trost und Sicherheit sein könnte.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Einige Platzhalterinhalte für den Ursprung. Dieses Panel ist standardmäßig versteckt, enthüllt jedoch, wenn der Benutzer klickt.
+
 {{< /details >}}
 

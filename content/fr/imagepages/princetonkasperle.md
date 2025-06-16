@@ -1,23 +1,37 @@
 ---
-title: "fr PrincetonKasperle"
+title: "Spontaneous and Mischievous"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/PrincetonKasperle.jpg"
-category: "Domesticity"
-country_of_origin: "Soviet Union"
+category: "Free Play"
+country_of_origin: "Germany"
+tags: ["how they played", "family"]
 draft: false
-description: This photo shows ...
+description: Spontaneous, ad hoc building play is...
 ---
 
-{{< figure src="/img/PrincetonKasperle.jpg" title="PrincetonKasperle" >}}
 
-Text written in fr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/PrincetonKasperle.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Le jeu de construction spontané et ad hoc est peut-être l'une des plus anciennes formes de jeu; Cela peut être très excitant mais souvent aussi inapproprié. Le poème suivant d'une collection de 1909 écrite et illustrée par un médecin pour ses propres enfants démontre exactement cette pièce décontractée et indisciplinée:
+`` En hiver, quand il neige et gèle,
+Tout le monde tire le poêle,
+Et les gens rivalisent avec des trucs
+Les briquettes dans le poêle.
+[…]
+Je joue avec eux en attendant.
+Laissez tout le monde regarder maintenant,
+Oh, le seau est déjà vide,
+Et la tour ne grandit plus!
+Les briquettes sont suieuses, 
+Sinon, ce serait beaucoup plus agréable de jouer ...
+Quand papa rentre à la maison,
+Il me battra et me brossera!
+L'incident immortalisé dans ce poème semble être une représentation réaliste du jeu de construction informel et créatif par les nourrissons.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Un contenu d'origine pour l'origine. Ce panneau est caché par défaut mais révélé lorsque l'utilisateur clique.
+
 {{< /details >}}
 

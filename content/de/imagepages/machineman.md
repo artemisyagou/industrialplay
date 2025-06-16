@@ -1,23 +1,23 @@
 ---
-title: "de MachineMan"
+title: "The Body as Machine"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MachineMan.jpg"
 category: "Racism"
 country_of_origin: "Germany"
+tags: ["technology", "emotions"]
 draft: false
-description: This photo shows ...
+description: As modernisation processes intensified...
 ---
 
-{{< figure src="/img/MachineMan.jpg" title="MachineMan" >}}
 
-Text written in de
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MachineMan.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Als sich die Modernisierungsprozesse intensivierte, erzeugten sie soziale Krisen, die nicht leicht verwaltet werden konnten. Der Geist des Zeitalters in den ersten Jahrzehnten des 20. Jahrhunderts wurde von verschiedenen Aspekten der Mechanisierung und den daraus resultierenden ungelösten Fragen dominiert. Die Idee des Körpers als effiziente Maschine oder Fabrik wurde zur charakteristischsten Darstellung des Einzelnen in der kapitalistischen, industriellen Gesellschaft und begann in vielen Formen den breiteren Volksdiskurs zu durchdringen. Viele betrachteten die Maschine negativ und die Mechanisierungsprozesse als Bedrohung für unsere innere Menschlichkeit. Während das Konzept des „Körpers als komplexe Maschine“ für einige attraktiv war, waren viele andere durch die Idee eingeschüchtert, dass „die Vitalität der menschlichen Form auf Zahnräder und Ausrüstungsräder reduziert wurde“.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Einige Platzhalterinhalte für den Ursprung. Dieses Panel ist standardmäßig versteckt, enthüllt jedoch, wenn der Benutzer klickt.
+
 {{< /details >}}
 

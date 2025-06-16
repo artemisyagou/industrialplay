@@ -1,23 +1,37 @@
 ---
-title: "el PrincetonKasperle"
+title: "Spontaneous and Mischievous"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/PrincetonKasperle.jpg"
-category: "Domesticity"
-country_of_origin: "Soviet Union"
+category: "Free Play"
+country_of_origin: "Germany"
+tags: ["how they played", "family"]
 draft: false
-description: This photo shows ...
+description: Spontaneous, ad hoc building play is...
 ---
 
-{{< figure src="/img/PrincetonKasperle.jpg" title="PrincetonKasperle" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/PrincetonKasperle.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Αυθόρμητο, ad hoc building play είναι ίσως μια από τις παλαιότερες μορφές παιχνιδιού. Μπορεί να είναι πολύ συναρπαστικό, αλλά συχνά και ακατάλληλο. Το ακόλουθο ποίημα από μια συλλογή του 1909 που γράφτηκε και απεικονίζεται από γιατρό για τα δικά του παιδιά δείχνει ακριβώς αυτό το απλό και απείθαρχο παιχνίδι:
+«Το χειμώνα, όταν χιονίζει και παγώνει,
+Όλοι πυρπολούν τη σόμπα,
+Και οι άνθρωποι ανταγωνίζονται για πράγματα
+Οι μπρικέτες στη σόμπα.
+[...]
+Παίζω μαζί τους εν τω μεταξύ.
+Αφήστε όλους να κοιτάξουν τώρα,
+Ω, ο κάδος είναι ήδη άδειος,
+Και ο πύργος δεν αυξάνεται πλέον!
+Οι μπρικέτες είναι μοφώδεις, 
+Διαφορετικά, θα ήταν πολύ καλύτερο να παίζεις ...
+Όταν ο μπαμπάς έρχεται σπίτι,
+Θα με νικήσει και θα με βουρτσίζει! "
+Το περιστατικό που αποθανατίστηκε σε αυτό το ποίημα φαίνεται να είναι μια ρεαλιστική αναπαράσταση του άτυπου και δημιουργικού παιχνιδιού κτιρίου από βρέφη.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

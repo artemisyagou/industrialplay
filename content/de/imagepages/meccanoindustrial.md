@@ -1,23 +1,23 @@
 ---
-title: "de MeccanoIndustrial"
+title: "In Awe or Afraid?"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MeccanoIndustrial.jpg"
 category: "Racism"
-country_of_origin: "Spain"
+country_of_origin: "Britain"
+tags: ["technology", "emotions"]
 draft: false
 description: This photo shows ...
 ---
 
-{{< figure src="/img/MeccanoIndustrial.jpg" title="MeccanoIndustrial" >}}
 
-Text written in de
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MeccanoIndustrial.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Betrachten Sie die Illustration aus dem Cover eines britischen British-Set-Set-Box des frühen 20. Jahrhunderts für den deutschen Markt. Es zeigt einen elegant gekleideten Jungen, der vor einem Tisch sitzt und einen Metallkran baut, sein Rücken an den Betrachter des Bildes. Im Hintergrund, dem der Junge ausgesetzt ist, gibt es eine imposante Industrielandschaft von Fabriken, Kranen, Schornsteinen und Rauch. Die Bildunterschrift lautet: „Die Weltwunder der Technologie, die in Ihrem eigenen Zuhause zusammengebracht wurden“. Der Junge liegt in einem neutralen und irgendwie surrealen Raum, weder drinnen noch draußen. Sein Gesicht wird nicht gezeigt, so dass wir uns nur seinen Ausdruck vorstellen und über seine Gefühle spekulieren können. Ist er von der Ansicht inspiriert, die das technologische Potenzial veranschaulicht? Träume er von seiner eigenen Zukunft als Ingenieur? Oder ist er vielleicht überwältigt von der Komplexität der Welt, die vor ihm liegt? Das Bild ist ambivalent und offen für Interpretation; Es spiegelt sicherlich nicht die so oft mit der Kindheit verbundene Ausrede. Es repräsentiert eher erwachsene Gefühle gegenüber dem Unbekannten - der unsicheren, kollektiven Zukunft - symbolisiert von Kindern.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Einige Platzhalterinhalte für den Ursprung. Dieses Panel ist standardmäßig versteckt, enthüllt jedoch, wenn der Benutzer klickt.
+
 {{< /details >}}
 

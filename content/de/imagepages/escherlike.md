@@ -1,23 +1,23 @@
 ---
-title: "de EscherLike"
+title: "Geometry and Grids"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/EscherLike.jpg"
-category: "Racism"
-country_of_origin: "Soviet Union"
+category: "Structure"
+country_of_origin: "Germany"
+tags: ["structure", "education"]
 draft: false
-description: This photo shows ...
+description: The emphasis of construction toys on...
 ---
 
-{{< figure src="/img/EscherLike.jpg" title="EscherLike" >}}
 
-Text written in de
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/EscherLike.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Der Schwerpunkt von Konstruktionsspielzeugen auf geometrische und strukturelle Merkmale hängt auch mit der Bedeutung von Gitterstrukturen zusammen. Ein Raster ist ein Muster oder eine Struktur aus horizontalen und vertikalen Linien, die sich gegenseitig überqueren, um Quadrate zu bilden. Das Netz ist bereits seit der paläolithischen Zeit in der westlichen Zivilisation vorhanden. Es stellt eine Messbeziehung zur Welt her und ist ein Zeichen der Macht. Allmählich wurde das Netz zur dominanten Form für die Strukturierung des bewohnbaren Raums, in der Tat für die Domestizierung des Raums. Insbesondere in der Kartographie wurde das Netz zur Hauptkonvention für die Darstellung und Konstruktion der Realität, ein Weg, ein gewisses Maß an Sicherheit zu bieten. In pädagogischen Kontexten wurde diese Logik auf den beiden Dimensionen durch das allgegenwärtige Gitter visuell ausgedrückt: auf dem Layout von Räumen, auf Tischflächen, in Diagrammen und Lehrbüchern sowie in Bauspielzeughandbüchern. Das Gitterpapier oder die Oberfläche war ein leistungsstarkes, normatives Gerät, das ein geometrisches, rhythmisches Gerüst feststellte, das von Kindern allmählich verinnerlicht wurde.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Einige Platzhalterinhalte für den Ursprung. Dieses Panel ist standardmäßig versteckt, enthüllt jedoch, wenn der Benutzer klickt.
+
 {{< /details >}}
 

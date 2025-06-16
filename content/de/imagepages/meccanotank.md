@@ -1,23 +1,23 @@
 ---
-title: "de MeccanoTank"
+title: "Playing War"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MeccanoTank.jpg"
-category: "Utopia"
-country_of_origin: "Germany"
+category: "Politics"
+country_of_origin: "Britain"
+tags: ["politics", "marketing"]
 draft: false
-description: This photo shows ...
+description: During the First World War, toy themes became...
 ---
 
-{{< figure src="/img/MeccanoTank.jpg" title="MeccanoTank" >}}
 
-Text written in de
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MeccanoTank.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Während des Ersten Weltkriegs wurden Spielzeugthemen militaristischer und beinhalteten eher Panzer als Brücken. Produktion und Verbrauch mussten „patriotisch“ sein und „Handel mit dem Feind“ wurde hart bestraft. In einem Artikel von 1914 in einem britischen Spielzeughandelsjournal heißt es: „Sie müssen britische Spielzeuge haben“. Die British War Toy Toy Production war jedoch aufgrund der eingeschränkten Rohstoffversorgung, steigenden Preise und der Mangel an qualifizierten Arbeitskräften von minderwertiger Qualität. Unmittelbar nach dem Ersten Weltkrieg wurde Großbritannien erneut für Spielzeugimporte geöffnet, obwohl deutsche Spielzeuge zunächst den Widerstand der Verbraucher auftraten. Darüber hinaus erholte sich die deutsche Spielzeugindustrie in den 1920er Jahren aufgrund politischer Instabilität, Streiks, Rohstoffe und Hyperinflation langsam. In den 1930er Jahren wurde es weiter geschwächt, als eine Reihe prominenter jüdischer Justizhersteller ins Ausland flohen, um dem NS -Regime zu entkommen. Der Zustrom von Spielzeugherstellern als Flüchtlinge von Deutschland zu Großbritannien verbesserte bereits bestehende Handelsverbindungen und -kollaborationen.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Einige Platzhalterinhalte für den Ursprung. Dieses Panel ist standardmäßig versteckt, enthüllt jedoch, wenn der Benutzer klickt.
+
 {{< /details >}}
 

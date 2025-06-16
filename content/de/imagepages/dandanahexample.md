@@ -1,23 +1,23 @@
 ---
-title: "de DandanahExample"
+title: "Is it a Toy?"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/DandanahExample.jpg"
-category: "Gender"
-country_of_origin: "Soviet Union"
+category: "Utopia"
+country_of_origin: "Germany"
+tags: ["technology", "emotions"]
 draft: false
-description: This photo shows ...
+description: The Dandanah is a sui generis construction set ...
 ---
 
-{{< figure src="/img/DandanahExample.jpg" title="DandanahExample" >}}
 
-Text written in de
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/DandanahExample.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Die * Dandanah * ist ein * sui generis * -Baustätte, das Anfang der 1920er Jahre nach dem Gemetzel und der Verwüstung des Ersten Weltkriegs geschaffen wurde. Obwohl es ein Spielzeug für Kinder sein sollte, ist es in der Tat ziemlich ungeeignet für das Spiel, da es aus kleinen Ziegeln aus farbenfrohen Glas besteht. Die Begründung hinter seiner Kreation beinhaltete eine Mischung aus Überzeugungen im Zusammenhang mit Licht und Farbe, Technologie und der Materialität von Glas sowie unrealistischen Visionen einer idealen Welt. Letztendlich war die * Dandanah * eine Miniatur -Utopie, ein eigenwilliges Experiment für Erwachsene, die von den Ängsten und Hoffnungen der Moderne angetrieben wurden.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Einige Platzhalterinhalte für den Ursprung. Dieses Panel ist standardmäßig versteckt, enthüllt jedoch, wenn der Benutzer klickt.
+
 {{< /details >}}
 

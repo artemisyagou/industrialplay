@@ -1,23 +1,23 @@
 ---
-title: "el Neureuther"
+title: "In the Cultural Pantheon"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/Neureuther.jpg"
 category: "Structure"
 country_of_origin: "Germany"
+tags: ["education", "family"]
 draft: false
-description: This photo shows ...
+description: From the beginning...
 ---
 
-{{< figure src="/img/Neureuther.jpg" title="Neureuther" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/Neureuther.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Από την αρχή της ανάπτυξής τους, τα σύνολα κατασκευών είχαν συνδεθεί στενά με μια σειρά λόγων σε διάφορους τομείς, συμπεριλαμβανομένης της εκπαίδευσης, της τεχνολογίας και του φύλου. Μια ισχυρή απεικόνιση της αντιληπτικής σημασίας των κατασκευαστικών παιχνιδιών τον δέκατο ένατο αιώνα παρουσιάζεται από μια λεπτομέρεια της ζωγραφικής του 1861 * Blüte der Kunst στο München * (ανθοφορία της τέχνης στο Μόναχο) από τον Eugen Napoleon Neureuther (1806-1882) Η ζωγραφική εμπνεύστηκε από το Σχολείο της Αθήνας * (1509) του Ραφαήλ και προοριζόταν να δοξάσει τη σκηνή τέχνης του Μονάχου κατά τη διάρκεια της βασιλείας του Ludwig I απεικονίζοντας μια σειρά από διακεκριμένες τοπικές προσωπικότητες αυτής της περιόδου. Μια λεπτομέρεια της ζωγραφικής στην κάτω αριστερή γωνία δείχνει ένα αγόρι που κάθεται στο πάτωμα και κατασκευάζοντας ένα κτίριο με μπλοκ. Το καλά ντυμένο παιδί, πιθανώς ανήκει σε μια οικογένεια ανώτερης κατηγορίας, απορροφάται στο μοναχικό παιχνίδι. Αν και αυτή είναι μια εξιδανικευμένη απεικόνιση που αντικατοπτρίζει τις απόψεις των ενηλίκων και όχι των παιδιών, υπογραμμίζει τον θεμελιώδη ρόλο των κατασκευαστικών παιχνιδιών στο πολιτιστικό πάνθεο και τη δυνατότητα τους να διαμορφώσουν τις μελλοντικές γενιές. Η ζωγραφική καταδεικνύει ότι, τουλάχιστον σε σχέση με τα εκπαιδευτικά παιχνίδια κατασκευής, η προηγουμένως αντιληπτή μη αναμονή του παιχνιδιού, καθώς η παιδική δραστηριότητα είχε χάσει την αξιοπιστία. Αυτά τα παιχνίδια λήφθηκαν πολύ σοβαρά από τους ενήλικες που τους δημιούργησαν για να επιτύχουν σημαντικούς στόχους που σχετίζονται με την ανατροφή των παιδιών τους.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

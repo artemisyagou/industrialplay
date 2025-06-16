@@ -1,23 +1,23 @@
 ---
-title: "el Gartenlaube1910"
+title: "Delayed Gratification"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Gartenlaube1910.jpg"
 category: "Structure"
-country_of_origin: "Britain"
+country_of_origin: "Germany"
+tags: ["marketing", "education"]
 draft: false
-description: This photo shows ...
+description: A major innovation introduced by...
 ---
 
-{{< figure src="/img/Gartenlaube1910.jpg" title="Gartenlaube1910" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/Gartenlaube1910.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Μια σημαντική καινοτομία που εισήγαγε η επιχείρηση *πλούσια σε Anker *, ήταν η πρακτική της «σειράς», μέσω της οποίας ο χρήστης του παιδιού θα μπορούσε να συσσωρεύσει μπλοκ σταδιακά, αγοράζοντας ένα απλό και φτηνό σετ να ξεκινήσει και να το συμπληρώνει σταδιακά. Οι κατασκευαστές παιχνιδιών ενθάρρυναν τα παιδιά να εξοικονομήσουν χρήματα για να είναι σε θέση να αγοράζουν τακτικά νέα συμπληρώματα και να συνεχίσουν να προσθέτουν στη συλλογή τους. Το σύστημα σειράς επέτρεψε ακόμη και τα παιδιά περιορισμένων οικονομικών μέσων να αποκτήσουν αυτά τα σχετικά δαπανηρά παιχνίδια και να συμμετάσχουν στην κοινότητα των παικτών. Επιπλέον, και το πιο σημαντικό, μέσω του συστήματος της σειράς, οι κατασκευαστές ενέκριναν το Thrift, την υπομονή και την επιμονή ως σημαντικά περιουσιακά στοιχεία. Εκπαιδεύουν τους χρήστες των παιδιών σε μια λογική της πρόβλεψης και της προόδου βήμα προς βήμα και τους «διάτρησαν» με τους τρόπους και τις απολαύσεις της σύγχρονης κατανάλωσης.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

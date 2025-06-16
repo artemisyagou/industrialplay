@@ -1,23 +1,23 @@
 ---
-title: "de MatadorGirl"
+title: "A Matador Girl"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MatadorGirl.jpg"
-category: "Domesticity"
-country_of_origin: "Britain"
+category: "Gender"
+country_of_origin: "Austria"
+tags: ["education", "gender"]
 draft: false
-description: This photo shows ...
+description: The sets intended for girls...
 ---
 
-{{< figure src="/img/MatadorGirl.jpg" title="MatadorGirl" >}}
 
-Text written in de
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MatadorGirl.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Die Sets, die für Mädchen bestimmt waren, verbanden die zunehmende Popularisierung der Technologie mit der Erwartung einer neuen Zielgruppe durch den Hersteller. Die erste Seite der Weihnachtsausgabe von 1930 des * Matador Zeitung * wurde vom Bild eines jugendlichen Mädchens und einer * Matador * -Konstruktion für Mädchen dominiert, einer kleinen, aber ziemlich ausgefeilten Handwebliste. Nach dem begleitenden Text wurde der Handwebstuhl durch die Beiträge mehrerer * Matador * „Freunde“, vermutlich Jungen, entworfen. Die Mädchen wären nur die Endbenutzer. Durch die Befolgung der detaillierten und hochkomplexen Anweisungen konnten Mädchen kleine Stoffstücke weben. Die Bemühungen der Jungen, die als Spiel getarnt waren, hatten zu diesem Arbeitswerkzeug für Mädchen geführt. Sowohl Jungen als auch Mädchen mussten sich der dominierenden Logik der Produktivität und des Dienstes anpassen. Unabhängig vom Geschlecht wurde erwartet, dass Kinder gehorsam und fleißige Arbeitnehmer sind. Das Lernen, ein nützlicher Bestandteil der großen industriellen Welt zu sein, war in vielen Gebäudesets impliziert.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Einige Platzhalterinhalte für den Ursprung. Dieses Panel ist standardmäßig versteckt, enthüllt jedoch, wenn der Benutzer klickt.
+
 {{< /details >}}
 

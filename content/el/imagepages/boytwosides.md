@@ -1,23 +1,24 @@
 ---
-title: "el BoyTwoSides"
+title: "A Boy's Two Sides"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/BoyTwoSides.jpg"
-category: "Fear"
-country_of_origin: "Britain"
+category: "Emotions"
+country_of_origin: "United States"
+tags: ["education", "gender"]
 draft: false
-description: This photo shows ...
+description: "Gilbert’s Erector set was one of the most famous and successful..."
 ---
 
-{{< figure src="/img/BoyTwoSides.jpg" title="BoyTwoSides" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/BoyTwoSides.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Το σετ * Erector * του Gilbert ήταν ένα από τα πιο διάσημα και επιτυχημένα μεταξύ των τεχνικών κιτ των αρχών του εικοστού αιώνα. *Rector*, όπως*meccano*, βασίστηκε σε μεταλλικές λωρίδες που συγκρατήθηκαν μαζί με μπουλόνια και καρύδια. Ο δημιουργός του Alfred Carlton Gilbert (1884-1961) το προώθησε ως σύμβολο μελλοντικής επιτυχίας και έτσι ενθουσιάστηκε τη φαντασία των νεαρών αγοριών. Επιπλέον, παρόμοια με τις αναφορές με τον φόβο των μητέρων για τα αγόρια τους σε φυλλάδια * πλούσιων σε Anker * του τέλους του δέκατου ένατου αιώνα, το διαφημιστικό υλικό * αντιμετώπισε άμεσα τις ανησυχίες των μητέρων. Ο εφευρέτης του παιχνιδιού ισχυρίστηκε ότι ο κύριος στόχος του στη δημιουργία αυτού του παιχνιδιού ήταν να λύσει το «πρόβλημα του αγοριού». Σύμφωνα με μια διαφήμιση Erector που δημοσιεύθηκε σε εφημερίδα της Νέας Υόρκης το 1915:
+«Κάθε μητέρα ξέρει ότι ένα αγόρι ξεχειλίζει με σθένος και vim. Η αδιάκοπη ενέργεια του πρέπει να έχει μια έξοδο κάποιου είδους. Τώρα αυτή η ενέργεια μπορεί να πάρει δύο κατευθύνσεις - το ένα καταστροφικό, το άλλο εποικοδομητικό. Ποιο θα εξαρτάται σε μεγάλο βαθμό από τις συνθήκες. [...] Ένα αγόρι είναι πιθανό να είναι καταστροφικό και να συμμετέχει σε άσχημες φάρσες απλώς και μόνο επειδή δεν έχει τίποτα άλλο να κάνει. Δώστε του κάτι που δεν είναι μόνο εποικοδομητικό και χρήσιμο, αλλά έχει επίσης το ουσιαστικό στοιχείο της διασκέδασης - τότε θα δείτε πόσο εύκολο είναι να καταστείλει την καταστροφική του πλευρά και να αναπτύξει την εποικοδομητική του πλευρά ».
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

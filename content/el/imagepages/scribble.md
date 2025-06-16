@@ -1,23 +1,23 @@
 ---
-title: "el Scribble"
+title: "Leaving Traces"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Scribble.jpg"
-category: "Fear"
+category: "Emotions"
 country_of_origin: "Germany"
+tags: ["how they played", "emotions"]
 draft: false
-description: This photo shows ...
+description: When examining old construction toys...
 ---
 
-{{< figure src="/img/Scribble.jpg" title="Scribble" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/Scribble.jpg"  >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Κατά την εξέταση παλιών παιχνιδιών κατασκευής σε μουσείο και ιδιωτικές συλλογές, ανακαλύπτει επίσης πολλά γραφικά σημάδια χρήσης. Τα μικρά σχέδια και τα scribbles σε συσκευασίες παιχνιδιών και φύλλα μοτίβων προτείνουν μια συστηματική, ίσως συνεργατική και ενδεχομένως προκλητική διαδικασία παιχνιδιού. Τα παιδιά έκαναν αυτά τα σκίτσα για να διευκολυνθούν; Μήπως οι ενήλικες παράγουν τα σκίτσα για τη δική τους κατανόηση - προκειμένου να καθοδηγήσουν καλύτερα τα παιδιά - ή ως επεξηγηματική συσκευή για τα παιδιά; Τέλος, το σημαντικό είναι ότι τα ονόματα των παιδιών χειρόγραφα στα παιχνίδια που ανήκουν και χρησιμοποιούσαν αποκαλύπτουν την επιθυμία για εξατομίκευση και μια ισχυρή συναισθηματική σύνδεση με τα παιχνίδια τους. Ο Little Philip Helm έγραψε το όνομά του σε όμορφες καλλιγραφικές επιστολές στο πίσω μέρος του παιχνιδιού του. Η προσεκτική γραφή του υποδηλώνει ότι αυτό ήταν ένα αγαπητό αντικείμενο. Αναρωτιέμαι, τι σκέφτηκε ενώ έπαιζε; Απολαύσει το κτίριο; Τελικά έγινε μηχανικός; Μήπως η αληθινή ουσία των συναισθημάτων των παιδιών προς το παιχνίδι κατοικεί σε αυτά τα ελάχιστα, σκοτεινά και ιδιαίτερα προσωπικά ίχνη;
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

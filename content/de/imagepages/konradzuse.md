@@ -1,23 +1,24 @@
 ---
-title: "de KonradZuse"
+title: "Konrad Zuse playing"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/KonradZuse.jpg"
-category: "Gender"
+category: "How they Played"
 country_of_origin: "Germany"
+tags: ["technology", "how they played"]
 draft: false
-description: This photo shows ...
+description: The computer pioneer Konrad Zuse (1910–1995), wrote...
 ---
 
-{{< figure src="/img/KonradZuse.jpg" title="KonradZuse" >}}
 
-Text written in de
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/KonradZuse.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Der Computerpionier Konrad Zuse (1910–1995) schrieb in seiner Autobiographie seiner Erfahrungen mit * Stabilen * Kits in Hoyerswerda, Sachsen, während seiner Teenagerjahre in den 1920er Jahren. Für Zuuse war die Freude, mit Baukits zu spielen, unbestreitbar:
+"Der Eektor (*Stabil*) war damals mein" einziger ". Funkbau, dann ziemlich modern, hat mich nicht wirklich angesprochen. Ich hatte immer einen überwiegend visuellen Ansatz in meiner Umgebung. Dies ist wahrscheinlich auch der Grund, warum ich nie Musik verfolgt habe. Dieses vielleicht einseitige Talent zeigte sich auch im Bau meiner Computermodelle, auch hier bevorzugte ich mechanische und elektromechanische Konstruktionen und überließ die Elektronik anderen, die besser qualifiziert waren. Für kurze Zeit lag meine Präferenz jedoch für Krane und Greifer. Ich baute einen großen Grabkran auf dem Schrank in meinem Zimmer, und alle seine Bewegungen konnten mit Saiten von meinem Schreibtisch aus betrieben werden. Die Abschlusswirkung des Grabes, dessen Kontrolle durch den Kranwagen und seine Schwenkbewegung geführt werden musste, erwies sich als besonders problematisch. Mein Eektor -Set ermöglichte mir auch, an Wettbewerben teilzunehmen, die von den Lieferanten gesponsert wurden. Mit den Preisen, die ich gewonnen habe, fügte ich zum Set hinzu. […] Ich war jetzt sechzehn Jahre alt und bis zu diesem Zeitpunkt war mein einziger Traum, Ingenieur zu werden. '
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Einige Platzhalterinhalte für den Ursprung. Dieses Panel ist standardmäßig versteckt, enthüllt jedoch, wenn der Benutzer klickt.
+
 {{< /details >}}
 

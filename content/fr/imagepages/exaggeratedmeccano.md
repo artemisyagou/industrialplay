@@ -1,23 +1,23 @@
 ---
-title: "fr ExaggeratedMeccano"
+title: "Marketing Tricks"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/ExaggeratedMeccano.jpg"
-category: "Racism"
-country_of_origin: "Germany"
+category: "Marketing"
+country_of_origin: "Britain"
+tags: ["marketing", "how they played"]
 draft: false
-description: This photo shows ...
+description: Many construction sets were highly complicated and...
 ---
 
-{{< figure src="/img/ExaggeratedMeccano.jpg" title="ExaggeratedMeccano" >}}
 
-Text written in fr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/ExaggeratedMeccano.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+De nombreux ensembles de construction étaient très compliqués et les assembler était difficile, surtout lorsque les instructions étaient brèves et complexes, ou lorsque les pièces étaient très petites, difficiles à manipuler et peu fiables. Le * Meccano Magazine * a encouragé la communication avec les abonnés et a reçu de nombreuses lettres de plainte à propos de ces problèmes et des problèmes similaires, qui étaient souvent obscurcis et non traités. La publicité a généralement favorisé une vision idéalisée et irréaliste du jeu, par exemple en montrant des constructions beaucoup plus hautes que les enfants eux-mêmes et en fait beaucoup plus importants que ce qu'ils pouvaient construire avec le contenu des boîtes. Les fabricants de jouets, qui ont parrainé des guildes de garçons et ont régulièrement organisé des compétitions avec des prix attrayants, ont publié des comptes de concours qui mettaient l'accent sur le triomphe et l'enthousiasme des gagnants, alors qu'ils n'ont pas tenu compte de la déception de «les nombreux qui n'ont jamais réussi à terminer un modèle ou à perdre le concours».
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Un contenu d'origine pour l'origine. Ce panneau est caché par défaut mais révélé lorsque l'utilisateur clique.
+
 {{< /details >}}
 

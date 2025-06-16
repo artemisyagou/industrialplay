@@ -1,23 +1,23 @@
 ---
-title: "el MachineMan"
+title: "The Body as Machine"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MachineMan.jpg"
 category: "Racism"
 country_of_origin: "Germany"
+tags: ["technology", "emotions"]
 draft: false
-description: This photo shows ...
+description: As modernisation processes intensified...
 ---
 
-{{< figure src="/img/MachineMan.jpg" title="MachineMan" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MachineMan.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Καθώς οι διαδικασίες εκσυγχρονισμού εντατικοποιήθηκαν, δημιούργησαν κοινωνικές κρίσεις που δεν μπορούσαν εύκολα να αντιμετωπιστούν. Το πνεύμα της εποχής κατά τις πρώτες δεκαετίες του εικοστού αιώνα κυριαρχείται από διάφορες πτυχές της μηχανοποίησης και των ανεπίλυτων ερωτήσεων που προέκυψαν από αυτά. Η ιδέα του σώματος ως αποτελεσματικής μηχανής ή εργοστασίου έγινε η πιο χαρακτηριστική αναπαράσταση του ατόμου στην καπιταλιστική, βιομηχανική κοινωνία και άρχισε να διαπερνά τον ευρύτερο λαϊκό λόγο με πολλές μορφές. Πολλοί θεωρούσαν αρνητικά το μηχάνημα και τις διαδικασίες μηχανισμού ως απειλή για την εσωτερική μας ανθρωπότητα. Ενώ η έννοια του «του σώματος ως πολύπλοκου μηχάνημα» ήταν ελκυστική για μερικούς, πολλοί άλλοι εκφοβίστηκαν από την ιδέα ότι «η ζωτικότητα της ανθρώπινης μορφής μειώθηκε σε γρανάζια και γρανάζια».
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

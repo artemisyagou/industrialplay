@@ -1,23 +1,23 @@
 ---
-title: "el ExaggeratedMeccano"
+title: "Marketing Tricks"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/ExaggeratedMeccano.jpg"
-category: "Racism"
-country_of_origin: "Germany"
+category: "Marketing"
+country_of_origin: "Britain"
+tags: ["marketing", "how they played"]
 draft: false
-description: This photo shows ...
+description: Many construction sets were highly complicated and...
 ---
 
-{{< figure src="/img/ExaggeratedMeccano.jpg" title="ExaggeratedMeccano" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/ExaggeratedMeccano.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Πολλά σετ κατασκευών ήταν πολύ περίπλοκα και τα συναρμολόγισά τους ήταν σκληρά, ειδικά όταν οι οδηγίες ήταν σύντομες και πολύπλοκες, ή όταν τα κομμάτια ήταν πολύ μικρά, αμήχανα για να χειραγωγούν και να αναξιόπιστα. Το περιοδικό * Meccano * ενθάρρυνε την επικοινωνία με τους συνδρομητές και έλαβε πολυάριθμες επιστολές καταγγελίας σχετικά με αυτά και παρόμοια προβλήματα, τα οποία συχνά ήταν κρυμμένα και δεν απευθύνονται. Η διαφήμιση προωθούσε τυπικά μια εξιδανικευμένη, μη ρεαλιστική άποψη του παιχνιδιού, για παράδειγμα, δείχνοντας κατασκευές που ήταν πολύ ψηλότερες από τα ίδια τα παιδιά και στην πραγματικότητα πολύ μεγαλύτερες από ό, τι μπορούσαν να χτίσουν με το περιεχόμενο των κουτιών. Οι κατασκευαστές παιχνιδιών, οι οποίοι χρηματοδότησαν τις συντεχνίες των αγοριών και οργάνωσαν τακτικά διαγωνισμούς με ελκυστικά βραβεία, δημοσιευμένους λογαριασμούς αυτών των διαγωνισμών που τόνισαν το θρίαμβο και τον ενθουσιασμό των νικητών, ενώ απέτυχαν να αντιπροσωπεύουν την απογοήτευση των «πολλών που ποτέ δεν κατάφεραν να ολοκληρώσουν ένα μοντέλο ή να χάσουν το διαγωνισμό».
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

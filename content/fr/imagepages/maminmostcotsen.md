@@ -1,23 +1,23 @@
 ---
-title: "fr MaminMostCotsen"
+title: "Mother's Bridge"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MaminMostCotsen.jpg"
 category: "Structure"
-country_of_origin: "Germany"
+country_of_origin: "Soviet Union"
+tags: ["politics", "gender"]
 draft: false
-description: This photo shows ...
+description: In the Soviet Union, the disciplined child,...
 ---
 
-{{< figure src="/img/MaminMostCotsen.jpg" title="MaminMostCotsen" >}}
 
-Text written in fr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MaminMostCotsen.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+En Union soviétique, l’enfant discipliné, par opposition à l’enfant «sauvage» et «dangereux», a servi d’agent d’un avenir soviétique lumineux et utopique, un avenir qui serait à la fois homogène, prospère et moderne. Des enfants obéissants et uniformément se comportant conformes aux idéaux d'une société industrielle standardisée. Les blocs de construction ont été utilisés comme modèle et métaphore pour construire cette nouvelle société grâce à une expertise en génie et un travail acharné. L'enfance était une construction sociale; L'iconographie liée au jeu de l'Union soviétique illustre la façon dont les adultes ont coopté les enfants selon le paradigme communiste dominant. Le livre de Nina Sakonskaia * Mamin Most * (Mother’s Bridge), publié en 1933, est un exemple éclairant de la façon dont les jouets de construction ont été ancrés dans des récits politiques. La femme «héros» de ce livre est un ingénieur qui travaille à concevoir un pont. Sa petite fille est montrée assise sur le sol à côté d'elle, jouant avec des blocs de construction. Comme la mère est occupée à créer une structure technique compliquée et innovante, la fille est absorbée de construire quelque chose de nouveau à petite échelle.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Un contenu d'origine pour l'origine. Ce panneau est caché par défaut mais révélé lorsque l'utilisateur clique.
+
 {{< /details >}}
 

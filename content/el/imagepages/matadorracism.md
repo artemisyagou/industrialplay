@@ -1,23 +1,23 @@
 ---
-title: "el MatadorRacism"
+title: "Politicised Play"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/MatadorRacism.jpg"
-category: "Fear"
-country_of_origin: "Soviet Union"
+category: "FearPolitics"
+country_of_origin: "Austria"
+tags: ["politics", "marketing"]
 draft: false
-description: This photo shows ...
+description: Much of the promotion for the Austrian firm Matador was...
 ---
 
-{{< figure src="/img/MatadorRacism.jpg" title="MatadorRacism" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MatadorRacism.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Μεγάλο μέρος της προώθησης της αυστριακής εταιρείας *Matador *βασίστηκε στη δημοσίευση των *Matador Zeitung *, που εμφανίστηκε αρκετές φορές το χρόνο μεταξύ 1905 και 1939. Σταδιακά, στα μέσα της δεκαετίας του '30, ο τόνος στο περιοδικό και σε άλλο διαφημιστικό υλικό Matador άλλαξε. Τα αντικείμενα που σχετίζονται με τον πόλεμο, όπως οι δεξαμενές, τα κανόνια και τα διάφορα στρατιωτικά οχήματα που κυριαρχούσαν. Η στροφή αυτή αντανακλούσε την μεταβαλλόμενη πολιτική κατάσταση και την άνοδο του εθνικού σοσιαλισμού. Η οικογένεια Korbuly (πατέρας και γιοι που συνέχισαν την επιχείρηση μετά από αυτόν) συμμορφώθηκαν με το «στρατόπεδο σκέψης» που επικρατούσε τότε και υποστήριζαν το NPD, ένα αυστριακό πολιτικό κόμμα που προώθησε αντισημιτικές απόψεις. Το εξώφυλλο του * Matador Zeitung * του Μαρτίου 1938 περιελάμβανε ένα πλαίσιο με το Swastika και τη δήλωση: «Η εταιρεία * Matador * είναι aryanised από την ίδρυσή της το 1903». Το κάλυμμα παρουσίασε επίσης ένα όπλο αντι-αεροσκαφών σχεδιασμένο και υποβλήθηκε από τον Albert Draschinsky (πιθανώς παιδί ή έφηβος). Αυτό είναι ένα χαρακτηριστικό παράδειγμα μιας σταθερής συν-όψης παιδιά με το πρόσχημα του παιχνιδιού. Τα παιδιά όχι μόνο παρείχαν δωρεάν μεγάλο μέρος του περιεχομένου του περιοδικού, υποστηρίζοντας έτσι τους εμπορικούς στόχους της επιχείρησης, αλλά επίσης χειρίστηκαν για να συμβάλλουν σε πολιτικά κινητοποιημένες δραστηριότητες. Με αυτόν τον τρόπο, μέσω φαινομενικά αθώου και δημιουργικού παιχνιδιού, τα παιδιά συνηθούσαν σε οπτικές, υλικές και ιδεολογικές εκφράσεις εθνικισμού, μιλιταρισμού και άλλων μορφών επιθετικότητας.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

@@ -1,23 +1,23 @@
 ---
-title: "el MeccanoTank"
+title: "Playing War"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MeccanoTank.jpg"
-category: "Utopia"
-country_of_origin: "Germany"
+category: "Politics"
+country_of_origin: "Britain"
+tags: ["politics", "marketing"]
 draft: false
-description: This photo shows ...
+description: During the First World War, toy themes became...
 ---
 
-{{< figure src="/img/MeccanoTank.jpg" title="MeccanoTank" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MeccanoTank.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Κατά τη διάρκεια του Πρώτου Παγκοσμίου Πολέμου, τα θέματα παιχνιδιών έγιναν πιο στρατιωτικά, με τη συμμετοχή δεξαμενών και όχι τις γέφυρες. Η παραγωγή και η κατανάλωση έπρεπε να είναι «πατριωτική» και «η διαπραγμάτευση με τον εχθρό» τιμωρήθηκε σκληρά. Ένα άρθρο του 1914 σε ένα British Toy Trade Journal δήλωσε: «Πρέπει να έχετε βρετανικά παιχνίδια». Ωστόσο, η παραγωγή του βρετανικού πολέμου ήταν κατώτερης ποιότητας λόγω περιορισμένων προμηθειών πρώτων υλών, αυξανόμενων τιμών και ελλείψεων εξειδικευμένης εργασίας. Αμέσως μετά τον Πρώτο Παγκόσμιο Πόλεμο, η Βρετανία άνοιξε και πάλι στις εισαγωγές παιχνιδιών, αν και τα γερμανικά παιχνίδια αντιμετώπισαν αρχικά την αντίσταση των καταναλωτών. Επιπλέον, η γερμανική βιομηχανία παιχνιδιών ανακτήθηκε αργά στη δεκαετία του 1920 λόγω της πολιτικής αστάθειας, των απεργιών, της έλλειψης πρώτων υλών και του υπερπληθωρισμού. Στη δεκαετία του 1930 αποδόθηκε περαιτέρω καθώς αρκετοί εξέχοντες εβραϊκοί τυμμακιστές εγκατέλειψαν στο εξωτερικό για να ξεφύγουν από το ναζιστικό καθεστώς. Η εισροή κατασκευαστών παιχνιδιών ως πρόσφυγες από τη Γερμανία στη Βρετανία ενίσχυσε τις προϋπάρχουσες εμπορικές συνδέσεις και συνεργασίες.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

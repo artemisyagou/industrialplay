@@ -1,23 +1,23 @@
 ---
-title: "fr Medieval"
+title: "Medieval and Modern?"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Medieval.jpg"
-category: "Fear"
+category: "Nationalism"
 country_of_origin: "Germany"
+tags: ["politics", "emotions"]
 draft: false
-description: This photo shows ...
+description: Designs and visual representations in toy products...
 ---
 
-{{< figure src="/img/Medieval.jpg" title="Medieval" >}}
 
-Text written in fr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/Medieval.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Des conceptions et des représentations visuelles dans les produits de jouets incorporaient des éléments historiques et modernes d'une culture nationale - cette combinaison était vraisemblablement attrayante pour le public. Par exemple, pendant la Première Guerre mondiale, Anker-Richter a fabriqué la série Fortress (Festungen) pour le marché autrichien. L’une des illustrations des manuels de la série représentait une combinaison très intrigante: un pilote d’aspect médiéval coexistait avec un bunker en béton et des canons modernes. Dans cette image, les idéaux militaires ont comblé un passé mythique avec des préoccupations actuelles. On se demande ce que les jeunes utilisateurs et leurs parents feraient de cette coexistence anachronique et bizarre d'éléments disparates. La nature contradictoire de cette illustration présente un exemple révélateur de l'ambivalence envers la modernité: le nouveau était souhaité mais aussi craint, tandis que l'ancien pourrait être une source de consolation et de sécurité.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Un contenu d'origine pour l'origine. Ce panneau est caché par défaut mais révélé lorsque l'utilisateur clique.
+
 {{< /details >}}
 

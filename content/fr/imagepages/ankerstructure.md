@@ -1,23 +1,27 @@
 ---
-title: "fr AnkerStructure"
+title: "The Importance of Order"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/AnkerStructure.jpg"
 category: "Gender"
-country_of_origin: "Spain"
+country_of_origin: "Germany"
+tags: ["structure", "education"]
 draft: false
 description: This photo shows ...
 ---
 
-{{< figure src="/img/AnkerStructure.jpg" title="AnkerStructure" >}}
 
-Text written in fr
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/AnkerStructure.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Texte écrit en en
 
+Lorem ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Sed do eiusmod tempory incidint ut Labore et dolore magna aliqua.
+
+Ut enim ad minim veiam, quis nostrud exercice ullamco lAbis nisi ut Aliquip ex ea Commodo consécutif. Duis aute irure Dolor en repreahance dans voluptate Velit Esse Cillum Dolore eu fugiat nulla pariatur.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Un contenu d'origine pour l'origine. Ce panneau est caché par défaut mais révélé lorsque l'utilisateur clique.
+
 {{< /details >}}
 

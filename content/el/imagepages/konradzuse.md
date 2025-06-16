@@ -1,23 +1,24 @@
 ---
-title: "el KonradZuse"
+title: "Konrad Zuse playing"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/KonradZuse.jpg"
-category: "Gender"
+category: "How they Played"
 country_of_origin: "Germany"
+tags: ["technology", "how they played"]
 draft: false
-description: This photo shows ...
+description: The computer pioneer Konrad Zuse (1910–1995), wrote...
 ---
 
-{{< figure src="/img/KonradZuse.jpg" title="KonradZuse" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/KonradZuse.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Ο πρωτοπόρος του υπολογιστή Konrad Zuse (1910-1995), έγραψε στην αυτοβιογραφία του για την εμπειρία του με * Stabil * κιτ στο Hoyerswerda της Σαξονίας κατά τα εφηβικά του χρόνια τη δεκαετία του 1920. Για τον Zuse, η χαρά του παιχνιδιού με κιτ κατασκευής ήταν αναμφισβήτητη:
+«Το σετ (*stabil*) ήταν το« ένα και μόνο »τότε. Η ραδιοφωνική κατασκευή, τότε αρκετά σύγχρονη, δεν μου έκανε έκκληση. Είχα πάντα μια κατά κύριο λόγο οπτική προσέγγιση στο περιβάλλον μου. Αυτό είναι επίσης πιθανώς γιατί ποτέ δεν επιδίωξα μουσική. Αυτό το ίσως μονόπλευρο ταλέντο ήταν επίσης εμφανές στην κατασκευή των μοντέλων των υπολογιστών μου, επίσης, προτιμούσα μηχανικές και ηλεκτρομηχανικές κατασκευές και άφησα τα ηλεκτρονικά σε άλλους που ήταν καλύτερα προσόντα. Για ένα μικρό χρονικό διάστημα, ωστόσο, η προτίμησή μου βρισκόταν με γερανούς και αρπαγές. Δημιούργησα έναν μεγάλο γερανό στο ντουλάπι στο δωμάτιό μου και όλες οι κινήσεις του θα μπορούσαν να λειτουργούν από το γραφείο μου χρησιμοποιώντας χορδές. Η δράση κλεισίματος της αρπαγής, της οποίας ο έλεγχος έπρεπε να οδηγηθεί μέσω του καροτσιού του γερανού και του περιστρεφόμενου κινήματος του, αποδείχθηκε ιδιαίτερα προβληματική. Το σετ στύσης μου μου επέτρεψε επίσης να εισαγάγω διαγωνισμούς που χρηματοδοτούνται από τους προμηθευτές. Με τα βραβεία που κέρδισα, πρόσθεσα στο σετ. [...] Ήμουν δεκαέξι χρονών τώρα, και μέχρι αυτό το σημείο το μοναδικό μου όνειρο ήταν να γίνω μηχανικός. "
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

@@ -1,23 +1,23 @@
 ---
-title: "el FamilySweden"
+title: "A Family in Sweden"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/FamilySweden.jpg"
 category: "Nationalism"
 country_of_origin: "Germany"
+tags: ["education", "family"]
 draft: false
-description: This photo shows ...
+description: A late nineteenth-century promotional leaflet of...
 ---
 
-{{< figure src="/img/FamilySweden.jpg" title="FamilySweden" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/FamilySweden.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Ένα προωθητικό φυλλάδιο του τέλους του δέκατου ένατου αιώνα της γερμανικής εταιρείας Richter *, ο ηγέτης της παγκόσμιας αγοράς στα κατασκευαστικά σύνολα κατά τη διάρκεια αυτής της περιόδου, δείχνει μια αξιοσημείωτη οικογενειακή σκηνή σε ένα σχολαστικά διακοσμημένο αστικό σαλόνι. Ένα καλά ντυμένο αγόρι στέκεται μπροστά σε ένα μικρό τραπέζι, προσθέτοντας τις τελευταίες πινελιές σε ένα κτίριο από * anker-richter * μπλοκ. Είναι συγκεντρωμένος και σοβαρός, σαν να εκτελεί μια σημαντική εργασία. Η μητέρα κάθεται απέναντι σε αυτόν, κοιτάζοντας τον έντονα, ενώ τα δάχτυλά της δείχνουν σε μια σελίδα του εγχειριδίου παιχνιδιού. Φαίνεται να τον επιβλέπει, φροντίζοντας να ακολουθεί τις οδηγίες σωστά. Ο πατέρας στέκεται μεταξύ τους, προφανώς προσθέτοντας την εξουσία του στη σκηνή, χωρίς άμεση συμμετοχή. Η συσκευασία των μπλοκ και των σχετικών εγχειριδίων βρίσκονται σε μια πολυθρόνα και στο πάτωμα, παρέχοντας τη μοναδική περιστασιακή λεπτομέρεια σε μια ρύθμιση κατά τα άλλα προσεκτικά δομημένη, αποπνέοντας μια ατμόσφαιρα πειθαρχίας και τάξης που απέχει πολύ από παιχνιδιάρικο ή ευχάριστο. Η απεικόνιση βασίστηκε στην πραγματικότητα σε μια φωτογραφία που έστειλε ο ίδιος ο πατέρας, ο κ. Robert Roesler της Στοκχόλμης, ο οποίος δήλωσε: [το * box * richter * έχει προκαλέσει μεγάλη απόλαυση όχι μόνο στο μικρό γιο μου αλλά και στη σύζυγό μου και τον εαυτό μου. [...] Κανένα άλλο παιχνίδι δεν έχει δώσει στο αγόρι μου τόσο μεγάλη ευχαρίστηση [...] Δεν είναι ποτέ κουρασμένος από αυτό, αρχίζει να οικοδομεί ξανά και ξανά και είναι ήδη σε κάποιο βαθμό εξειδικευμένο σε αυτή την τέχνη ». Η περιγραφή είναι μάλλον αντίθετη με τη σκοτεινή ατμόσφαιρα της εικόνας.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

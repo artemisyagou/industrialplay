@@ -1,23 +1,23 @@
 ---
-title: "el Medieval"
+title: "Medieval and Modern?"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Medieval.jpg"
-category: "Fear"
+category: "Nationalism"
 country_of_origin: "Germany"
+tags: ["politics", "emotions"]
 draft: false
-description: This photo shows ...
+description: Designs and visual representations in toy products...
 ---
 
-{{< figure src="/img/Medieval.jpg" title="Medieval" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/Medieval.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Τα σχέδια και οι οπτικές αναπαραστάσεις στα προϊόντα παιχνιδιών ενσωμάτωσαν τόσο ιστορικά όσο και σύγχρονα στοιχεία ενός εθνικού πολιτισμού - αυτός ο συνδυασμός ήταν πιθανώς ελκυστικός για το κοινό. Για παράδειγμα, κατά τη διάρκεια του Πρώτου Παγκοσμίου Πολέμου, ο Anker-Richter δημιούργησε τη σειρά Fortresses (Festungen) για την αυστριακή αγορά. Μία από τις εικονογραφήσεις των εγχειριδίων της σειράς απεικόνιζε έναν πολύ ενδιαφέρον συνδυασμό: ένας μεσαιωνικός αναβάτης που συνυπάρχει με ένα σκυρόδεμα και τα σύγχρονα κανόνια. Σε αυτή την εικόνα, τα στρατιωτικά ιδεώδη γεφυρώνουν ένα μυθικό παρελθόν με τις σημερινές ανησυχίες. Κάποιος αναρωτιέται τι θα κάνουν οι νέοι χρήστες και οι γονείς τους από αυτή την αναχρονιστική και παράξενη συνύπαρξη των διαφορετικών στοιχείων. Η αντιφατική φύση αυτής της απεικόνισης παρουσιάζει ένα αφηγηματικό παράδειγμα της αμφιθυμίας προς τον νεωτερικότητα: ο νέος ήταν επιθυμητός, αλλά και φοβισμένος, ενώ το παλιό θα μπορούσε να αποτελέσει πηγή παρηγοριάς και ασφάλειας.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

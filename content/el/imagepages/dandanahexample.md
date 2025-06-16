@@ -1,23 +1,23 @@
 ---
-title: "el DandanahExample"
+title: "Is it a Toy?"
 date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
 image: "/preview/DandanahExample.jpg"
-category: "Gender"
-country_of_origin: "Soviet Union"
+category: "Utopia"
+country_of_origin: "Germany"
+tags: ["technology", "emotions"]
 draft: false
-description: This photo shows ...
+description: The Dandanah is a sui generis construction set ...
 ---
 
-{{< figure src="/img/DandanahExample.jpg" title="DandanahExample" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/DandanahExample.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Το * dandanah * είναι ένα σύνολο κατασκευών * sui generis * που δημιουργήθηκε στις αρχές της δεκαετίας του 1920, ακολουθώντας το σφαγείο και την καταστροφή του Πρώτου Παγκοσμίου Πολέμου. Παρόλο που υποτίθεται ότι ήταν ένα παιχνίδι για παιδιά, είναι στην πραγματικότητα μάλλον ακατάλληλο για παιχνίδι, καθώς αποτελείται από μικρά τούβλα από πολύχρωμα γυαλί. Το σκεπτικό πίσω από τη δημιουργία του περιελάμβανε ένα μείγμα πεποιθήσεων που σχετίζονται με το φως και το χρώμα, την τεχνολογία και την υλικότητα του γυαλιού, καθώς και τα μη ρεαλιστικά οράματα ενός ιδανικού κόσμου. Τελικά, το * dandanah * ήταν μια μικροσκοπική ουτοπία, ένα ιδιοσυγκρασιακό πείραμα ενηλίκων που οδηγείται από τις ανησυχίες και τις ελπίδες της νεωτερικότητας.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

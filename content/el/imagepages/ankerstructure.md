@@ -1,23 +1,27 @@
 ---
-title: "el AnkerStructure"
+title: "The Importance of Order"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/AnkerStructure.jpg"
 category: "Gender"
-country_of_origin: "Spain"
+country_of_origin: "Germany"
+tags: ["structure", "education"]
 draft: false
 description: This photo shows ...
 ---
 
-{{< figure src="/img/AnkerStructure.jpg" title="AnkerStructure" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/AnkerStructure.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Κείμενο γραμμένο στο en
 
+Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Sed do eiusmod προσωρινό incididunt ut labore et dolore magna lequa.
+
+UT Enim ad minim veniam, quis nostrud άσκηση ullamco laboris nisi ut lequip ex e e commodo commodo. DUIS AUTE IRURE DOLOR ΣΤΗΝ ΠΕΡΙΕΧΟΜΕΝΗ ΣΤΟ VOLUPTAME VELIT ESSE CILLUM DOLORE EU ​​FUGIAT NULLA PARIATUR.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

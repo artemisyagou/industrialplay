@@ -1,23 +1,23 @@
 ---
-title: "el MaminMostCotsen"
+title: "Mother's Bridge"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MaminMostCotsen.jpg"
 category: "Structure"
-country_of_origin: "Germany"
+country_of_origin: "Soviet Union"
+tags: ["politics", "gender"]
 draft: false
-description: This photo shows ...
+description: In the Soviet Union, the disciplined child,...
 ---
 
-{{< figure src="/img/MaminMostCotsen.jpg" title="MaminMostCotsen" >}}
 
-Text written in el
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< figure src="/img/MaminMostCotsen.jpg" >}}
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+Στη Σοβιετική Ένωση, το πειθαρχημένο παιδί, σε αντίθεση με το «άγριο» και «επικίνδυνο», χρησίμευσε ως πράκτορας ενός φωτεινού, ουτοπικού σοβιετικού μέλλοντος, ένα μέλλον που θα ήταν ομοιογενές, ευημερούσα και σύγχρονο ταυτόχρονα. Οι υπάκουοι και ομοιόμορφα συμπεριφερόμενα παιδιά συμμορφώνονται με τα ιδανικά μιας τυποποιημένης, βιομηχανικής κοινωνίας. Τα δομικά στοιχεία χρησιμοποιήθηκαν ως μοντέλο και μεταφορά για την οικοδόμηση αυτής της νέας κοινωνίας μέσω τεχνογνωσίας και σκληρής δουλειάς. Η παιδική ηλικία ήταν ένα κοινωνικό κατασκεύασμα. Η εικονογραφία που σχετίζεται με το παιχνίδι από τη Σοβιετική Ένωση απεικονίζει τους τρόπους με τους οποίους οι ενήλικες συνεργάζονται με τα παιδιά σύμφωνα με το κυρίαρχο κομμουνιστικό πρότυπο. Το βιβλίο της Nina Sakonskaia * Mamin Most * (Γέφυρα της Μητέρας), που δημοσιεύθηκε το 1933, είναι ένα φωτεινό παράδειγμα του τρόπου με τον οποίο τα παιχνίδια κατασκευής ενσωματώθηκαν σε πολιτικές αφηγήσεις. Η γυναίκα «ήρωας» αυτού του βιβλίου είναι ένας μηχανικός που εργάζεται για να σχεδιάσει μια γέφυρα. Το κοριτσάκι της εμφανίζεται στο πάτωμα δίπλα της, παίζοντας με δομικά στοιχεία. Καθώς η μητέρα είναι απασχολημένη δημιουργώντας μια περίπλοκη, καινοτόμο τεχνική δομή, και το κορίτσι απορροφάται για την οικοδόμηση κάτι καινούργιου στη μικρή κλίμακα.
 
 {{< details "Origin" >}}
-Some placeholder content for origin. This panel is hidden by default but revealed when the user clicks.
+
+Κάποιο περιεχόμενο κράτησης για την προέλευση. Αυτός ο πίνακας είναι κρυμμένος από προεπιλογή, αλλά αποκαλύπτεται όταν ο χρήστης κάνει κλικ.
+
 {{< /details >}}
 

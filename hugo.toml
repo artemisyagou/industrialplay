@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://industrialplay.yagou.gr'
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 #disqusShortname = "XXX"
@@ -126,4 +126,5 @@ wordCount = true
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-    
+
+
