@@ -1,12 +1,12 @@
 ---
-title: "Medieval and Modern?"
+title: "Mittelalterlich und modern?"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Medieval.jpg"
 category: "Nationalism"
 country_of_origin: "Germany"
 tags: ["politics", "emotions"]
 draft: false
-description: Designs and visual representations in toy products...
+description: Designs und visuelle Darstellungen in Spielzeugprodukten haben...
 ---
 
 

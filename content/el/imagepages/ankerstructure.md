@@ -1,5 +1,5 @@
 ---
-title: "The Importance of Order"
+title: "L'importance de l'ordre"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/AnkerStructure.jpg"
 category: "Gender"

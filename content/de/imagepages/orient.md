@@ -1,12 +1,11 @@
 ---
-title: "Oriental Charm"
+title: "Orientalischer Charme"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/Orient.jpg"
 category: "Nationalism"
 country_of_origin: "Germany"
 tags: ["politics", "marketing"]
-draft: false
-description: Apart from specific skills, ...
+draft: falseAbgesehen von spezifischen Fähigkeiten...
 ---
 
 

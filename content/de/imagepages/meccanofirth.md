@@ -1,12 +1,12 @@
 ---
-title: "Bodies and Bridges"
+title: "Körper und Brücke"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/MeccanoFirth.jpg"
 category: "Structure"
 country_of_origin: "Britain"
 tags: ["technology", "emotions"]
 draft: false
-description: Many of the engineering works of the nineteenth century...
+description: Viele der technischen Arbeiten des 19. Jahrhunderts...
 ---
 
 

@@ -29,19 +29,19 @@ title = 'Industrial Play'
     LanguageCode  = "de"
     LanguageName = "Deutsch"
     weight = 2
-    title = "Deutsch Verlag"
+    title = "Industrielles Spiel"
     contentDir = "content/de"
   [languages.fr]
     LanguageCode  = "fr"
     LanguageName = "Français"
     weight = 3
-    title = "Version française"
+    title = "Jeu industriel"
     contentDir = "content/fr"
   [languages.el]
     LanguageCode  = "el"
     LanguageName = "Ελληνικά"
     weight = 4
-    title = "Ελληνική έκδοση"
+    title = "Βιομηχανικό παιχνίδι"
     contentDir = "content/el"
 
 

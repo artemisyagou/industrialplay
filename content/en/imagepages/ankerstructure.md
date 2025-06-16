@@ -6,16 +6,12 @@ category: "Gender"
 country_of_origin: "Germany"
 tags: ["structure", "education"]
 draft: false
-description: This photo shows ...
+description: The container and packaging of construction sets...
 ---
 
 {{< figure src="/img/AnkerStructure.jpg" >}}
 
-Text written in en
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The container and packaging of construction sets, where all the pieces could be arranged and stored following a specific packing plan, especially promoted the idea of order and structure, and encouraged the young minds to recognise multiplicity in unity. This was an innovative concept systematically introduced by Fröbel's Gifts; bricks were stored and presented to children in a way that determined how they had to be used. *Anker-Richter* also promoted specific packing arrangements that highlighted the blocks of a set as a harmonious unity composed of multiple elements.
 
 
 {{< details "Origin" >}}

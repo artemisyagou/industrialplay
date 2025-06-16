@@ -1,23 +1,19 @@
 ---
-title: "The Importance of Order"
+title: "Die Wichtigkeit der Ordnung"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/AnkerStructure.jpg"
 category: "Gender"
 country_of_origin: "Germany"
 tags: ["structure", "education"]
 draft: false
-description: This photo shows ...
+description: Die Verpackung der Baukästen, in der alle Teil...
 ---
 
 
 
 {{< figure src="/img/AnkerStructure.jpg" >}}
 
-Text geschrieben in en
-
-Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing Elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-Ut enim ad minimal veniam, quis nostrud trainieren ullamco laboris nisi ut aliquip ex ea comodo Folg. DUIS AUTE IRURE DOLOR IN PREHREHENTERIT IN VOLUPTATE VELIT Esse Cillum Dolore Eu Fugiat Nulla Pariatur.
+Die Verpackung der Baukästen, in der alle Teile nach einem bestimmten Packplan angeordnet und aufbewahrt werden konnten, förderte insbesondere den Gedanken an Ordnung und Struktur und ermutigte die jungen Köpfe, Vielfalt in der Einheit zu erkennen. Dieses innovative Konzept wurde systematisch von Fröbels Geschenken eingeführt: Die Bausteine ​​wurden so aufbewahrt und den Kindern präsentiert, dass ihre Verwendung vorgegeben war. *Anker-Richter* förderte auch spezielle Verpackungsarrangements, die die Bausteine ​​eines Baukastens als harmonische Einheit aus mehreren Elementen hervorhoben.
 
 {{< details "Origin" >}}
 
