@@ -51,6 +51,7 @@ pagerSize = 6
 [Params]
 comments = false
 dateFormat = "02 January 2006"
+dateInCard = false
 delayDisqus = true
 description="Your can add your website description here."
 gcse = false
@@ -67,8 +68,9 @@ showPostImage = false
 showRelatedPosts = true
 socialShare = true
 summaryLength  = "9"
+translationsInCard = false
 useHLJS = false
-wordCount = true
+wordCount = false
 
 [Params.Author]
   #500px = "username"
