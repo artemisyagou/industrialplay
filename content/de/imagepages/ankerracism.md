@@ -1,12 +1,12 @@
 ---
-title: "Casual Racism"
+title: "Gelegentlicher Rassismus"
 date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
 image: "/preview/AnkerRacism.jpg"
 category: "Politics"
 country_of_origin: "Germany"
 tags: ["politics", "gender"]
 draft: false
-description: Visual representations in toy catalogues...
+description: Visuelle Darstellungen in Spielzeugkatalogen...
 ---
 
 
