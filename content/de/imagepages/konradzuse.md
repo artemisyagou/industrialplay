@@ -1,6 +1,6 @@
 ---
 title: "Konrad Zuse spielt"
-date: 2025-06-23 # ISO 8601 date
+date: 2025-06-23T00:00:00+01:00 # ISO 8601 date
 image: "/preview/KonradZuse.jpg"
 category: "How they Played"
 country_of_origin: "Germany"

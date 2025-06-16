@@ -1,6 +1,6 @@
 ---
 title: "Orientalischer Charme"
-date: 2025-06-12 # ISO 8601 date
+date: 2025-06-12T00:00:00+01:00 # ISO 8601 date
 image: "/preview/Orient.jpg"
 category: "Nationalism"
 country_of_origin: "Germany"

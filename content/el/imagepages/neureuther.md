@@ -1,6 +1,6 @@
 ---
 title: "In the Cultural Pantheon"
-date: 2025-06-03 # ISO 8601 date
+date: 2025-06-03T00:00:00+01:00 # ISO 8601 date
 image: "/preview/Neureuther.jpg"
 category: "Structure"
 country_of_origin: "Germany"

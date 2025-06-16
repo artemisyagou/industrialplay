@@ -1,6 +1,6 @@
 ---
 title: "A Matador Girl"
-date: 2025-06-17 # ISO 8601 date
+date: 2025-06-17T00:00:00+01:00 # ISO 8601 date
 image: "/preview/MatadorGirl.jpg"
 category: "Gender"
 country_of_origin: "Austria"

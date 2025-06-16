@@ -1,6 +1,6 @@
 ---
 title: "Mittelalterlich und modern?"
-date: 2025-06-11 # ISO 8601 date
+date: 2025-06-11T00:00:00+01:00 # ISO 8601 date
 image: "/preview/Medieval.jpg"
 category: "Nationalism"
 country_of_origin: "Germany"
