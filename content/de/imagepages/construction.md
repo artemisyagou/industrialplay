@@ -4,7 +4,7 @@ date: 2025-05-24T00:00:00+01:00 # ISO 8601 date
 image: "/preview/Construction.jpg"
 category: "Structure"
 country_of_origin: "Germany"
-tags: ["technology", "construction"]
+tags: ["technology", "structure"]
 draft: false
 description: Konstruktionsspielzeug oder Baukasten sind Spielzeug, die...
 ---
