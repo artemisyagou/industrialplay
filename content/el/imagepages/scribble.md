@@ -1,6 +1,6 @@
 ---
 title: "Leaving Traces"
-date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
+date: 2025-06-24 # ISO 8601 date
 image: "/preview/Scribble.jpg"
 category: "Emotions"
 country_of_origin: "Germany"

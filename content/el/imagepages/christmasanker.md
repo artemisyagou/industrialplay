@@ -1,6 +1,6 @@
 ---
 title: "Christmas Toys"
-date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
+date: 2025-06-07 # ISO 8601 date
 image: "/preview/ChristmasAnker.jpg"
 category: "Consumption"
 country_of_origin: "Germany"

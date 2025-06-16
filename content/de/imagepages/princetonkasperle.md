@@ -1,6 +1,6 @@
 ---
 title: "Spontan und schelmisch"
-date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
+date: 2025-06-21 # ISO 8601 date
 image: "/preview/PrincetonKasperle.jpg"
 category: "Free Play"
 country_of_origin: "Germany"

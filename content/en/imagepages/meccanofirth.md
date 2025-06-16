@@ -1,6 +1,6 @@
 ---
 title: "Bodies and Bridges"
-date: 2025-06-09T20:13:01+02:00 # ISO 8601 date
+date: 2025-06-4 # ISO 8601 date
 image: "/preview/MeccanoFirth.jpg"
 category: "Structure"
 country_of_origin: "Britain"

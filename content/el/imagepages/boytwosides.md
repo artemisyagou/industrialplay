@@ -1,6 +1,6 @@
 ---
 title: "A Boy's Two Sides"
-date: 2025-06-09T20:13:02+02:00 # ISO 8601 date
+date: 2025-06-19 # ISO 8601 date
 image: "/preview/BoyTwoSides.jpg"
 category: "Emotions"
 country_of_origin: "United States"
