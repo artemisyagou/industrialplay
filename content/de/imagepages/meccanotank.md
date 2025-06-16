@@ -1,6 +1,6 @@
 ---
 title: "Krieg spielen"
-date: 2025-06-13T00:00:00+01:00 # ISO 8601 date
+date: 2025-06-12T00:00:00+01:00 # ISO 8601 date
 image: "/preview/MeccanoTank.jpg"
 category: "Politics"
 country_of_origin: "Britain"
