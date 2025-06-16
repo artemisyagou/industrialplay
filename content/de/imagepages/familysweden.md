@@ -1,6 +1,6 @@
 ---
 title: "Eine Familie in Schweden"
-date: 2025-06-19T00:00:00+01:00 # ISO 8601 date
+date: 2025-05-19T00:00:00+01:00 # ISO 8601 date
 image: "/preview/FamilySweden.jpg"
 category: "Nationalism"
 country_of_origin: "Germany"

@@ -1,6 +1,6 @@
 ---
 title: "A Boy from Barcelona"
-date: 2025-06-14T00:00:00+01:00 # ISO 8601 date
+date: 2025-05-14T00:00:00+01:00 # ISO 8601 date
 image: "/preview/BoyFigueres.jpg"
 category: "How they Played"
 country_of_origin: "Spain"

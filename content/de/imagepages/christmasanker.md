@@ -1,6 +1,6 @@
 ---
 title: "Weihnachtsspielzeug"
-date: 2025-06-18T00:00:00+01:00 # ISO 8601 date
+date: 2025-05-18T00:00:00+01:00 # ISO 8601 date
 image: "/preview/ChristmasAnker.jpg"
 category: "Consumption"
 country_of_origin: "Germany"

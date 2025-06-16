@@ -1,6 +1,6 @@
 ---
 title: "Geometrie und Gitter"
-date: 2025-06-20T00:00:00+01:00 # ISO 8601 date
+date: 2025-05-20T00:00:00+01:00 # ISO 8601 date
 image: "/preview/EscherLike.jpg"
 category: "Structure"
 country_of_origin: "Germany"
